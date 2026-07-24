@@ -15,7 +15,7 @@ scikit-learn>=1.5     # ndcg_score, roc_auc_score
 pandas>=2.0
 matplotlib>=3.8       # graficos (barras + radar)
 requests>=2.31        # API de embeddings do Ollama + chamada Gradio->API
-python-dotenv>=1.0
+python-dotenv>=1.2.2
 
 # Modelos de embedding sao hospedados pelo OLLAMA (nao via pip):
 #   ollama pull nomic-embed-text

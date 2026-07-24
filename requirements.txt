@@ -43,7 +43,7 @@ gradio>=4.44                  # interface web da API (interface.py)
 requests==2.32.3               # interface -> API
 
 # --- Utilidades ---
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 
 # Notas:
 # - LLM (Groq): llama-3.3-70b-versatile (tool calling) -> nao usar gpt-oss (reasoning).
