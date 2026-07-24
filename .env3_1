@@ -1,0 +1,56 @@
+# .env.example - Projeto Final (Aula 12). Copie para .env e preencha.
+# LLM_PROVIDER=nvidia
+# LLM_BASE_URL=https://integrate.api.nvidia.com/v1
+# LLM_API_KEY="api-key"
+# LLM_MODEL=meta/llama-3.3-70b-instruct
+
+# LLM_PROVIDER=groq
+# LLM_BASE_URL=https://api.groq.com/openai/v1
+# LLM_API_KEY="api-key"
+# LLM_MODEL=llama-3.3-70b-versatile
+# LLM_MODEL=llama-3.1-8b-instant
+
+LLM_PROVIDER=ollama
+LLM_BASE_URL=http://localhost:11434/v1
+LLM_API_KEY=admin
+LLM_MODEL=llama3.1:8b
+
+# LLM_PROVIDER="openai"
+# LLM_BASE_URL="https://openrouter.ai/api/v1"
+# LLM_API_KEY="api-key"
+# LLM_MODEL="deepseek/deepseek-chat"
+# LLM_MODEL="meta-llama/llama-3.1-8b-instruct"
+# LLM_MODEL="meta-llama/llama-3.3-70b-instruct"
+# LLM_MODEL="mistralai/mixtral-8x22b-instruct"
+# LLM_MODEL="qwen/qwen3.6-27b"
+# LLM_MODEL="google/gemini-3-flash-preview"
+
+# --- Embedding (Ollama) ---
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_LLM_MODEL=llama3.1:8b
+OLLAMA_EMBED_MODEL=bge-m3
+
+OPENSEARCH_HOST=localhost
+OPENSEARCH_PORT=9200
+OPENSEARCH_USER=admin
+OPENSEARCH_PASS=admin
+OPENSEARCH_INDEX=fase1_chunking_fixo
+
+API_KEYS=
+
+LANGFUSE_SECRET_KEY="api-key"
+LANGFUSE_PUBLIC_KEY="api-key"
+LANGFUSE_BASE_URL=http://localhost:3000
+
+# LOG_LEVEL=DEBUG
+LOG_LEVEL=WARNING
+
+# --- Docling (controle de memoria; evita 'std::bad_alloc' em PDFs grandes) ---
+DOCLING_NUM_THREADS=2         # menos threads = menor pico de RAM (1-2 em maquinas modestas)
+DOCLING_IMAGE_SCALE=1.0       # escala da imagem por pagina (menor = menos memoria)
+
+# --- Interface Gradio (interface.py) ---
+API_URL=http://localhost:8001
+GRADIO_PORT=7860
+API_KEY=                      # use apenas se API_KEYS estiver configurado acima
+

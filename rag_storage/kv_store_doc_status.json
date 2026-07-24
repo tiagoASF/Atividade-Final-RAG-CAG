@@ -1,0 +1,37 @@
+{
+  "doc-e3e457a1e257bc46748013ef89b39a36": {
+    "status": "processed",
+    "content_summary": "Anexo I GOVERNO DO DISTRITO FEDERAL POLÍCIA CIVIL DO DISTRITO FEDERAL PROCEDIMENTO OPERACIONAL PADRÃO Código: S/N\n\nData Emissão: MARÇO/2018\n\nData Vigência: INDETERMINADO\n\nData Atualização: 12/05/2021\n\nVersão: 1.2\n\nÁrea Emitente: Corregedoria-Geral de...",
+    "content_length": 43506,
+    "created_at": "2026-07-21T01:00:22.090625+00:00",
+    "updated_at": "2026-07-21T01:01:03.375123+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260720_220022_de18bd54",
+    "content_hash": "e3e457a1e257bc46748013ef89b39a36",
+    "metadata": {
+      "parse_start_time": 1784595622,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1784595622,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1784595622,
+      "process_end_time": 1784595663,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=150"
+    },
+    "chunks_count": 10,
+    "chunks_list": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ]
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "metadata": {
+    "titulo": "Corpus Jurídico Benchmark PCDF — Versão Completa (Raw Text)",
+    "curso": "MBA RAG & CAG Aplicados a Direito e Segurança Pública",
+    "versao": "2.1",
+    "data_criacao": "2026-07-16",
+    "total_documentos": 47,
+    "total_queries": 40,
+    "dominios": [
+      "Procedimentos Policiais",
+      "Violência Doméstica",
+      "Crimes contra a Dignidade Sexual",
+      "Perícia Técnico-Científica"
+    ]
+  },
+  "documentos": [
+    {
+      "id": "D01",
+      "fonte": "ANEXO I - POP - Item 3 / 3.1 / I",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "I. Sempre que possível, a vítima deve ser atendida por policial feminina, de forma reservada e entrevistada sem a presença de pessoas estranhas. O mesmo tratamento deve ser dado às testemunhas. Em nenhuma hipótese, a mulher em situação de violência doméstica e familiar e as testemunhas terão contato direto com o autor ou pessoas a eles relacionadas."
+    },
+    {
+      "id": "D02",
+      "fonte": "ANEXO I - POP - Item 3 / 3.1 / II",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "II. A vítima deve ser acolhida em escuta empática, abstendo-se o policial de julgamentos, críticas e exteriorizações de preconceitos em relação à classe, race, etnia, orientação sexual, renda, cultura e nível educacional, idade, religião e identidade de gênero ou demais questionamentos que possam demonstrar dúvida quanto à veracidade dos fatos. A vítima deve ser orientada a fornecer o máximo de detalhes sobre o fato."
+    },
+    {
+      "id": "D03",
+      "fonte": "ANEXO I - POP - Item 3 / 3.1 / III",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "III. Caso a vítima demonstre abalo emocional, o policial deve aguardar até que ela consiga narrar os fatos de forma fidedigna, inclusive tranquilizando-a no sentido de que não há nenhuma pressa quanto ao seu atendimento."
+    },
+    {
+      "id": "D04",
+      "fonte": "ANEXO I - POP - Item 3 / 3.1 / IV",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "IV. O relato da vítima deve ser, de imediato, levado ao conhecimento da Autoridade Policial competente para as providências cabíveis, inclusive sobre seu interesse ou não em efetuar o registro dos fatos."
+    },
+    {
+      "id": "D05",
+      "fonte": "ANEXO I - POP - Item 3 / 3.1 / V",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "V. Exceto em situações flagranciais, os envolvidos devem ser ouvidos, em separado, na seguinte ordem: vítima, testemunhas e autor (se presente)."
+    },
+    {
+      "id": "D06",
+      "fonte": "ANEXO I - POP - Item 3 / 3.1 / VI",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "VI. A vítima deve ser informada sobre os atos a serem realizados em cada etapa do atendimento bem como dos procedimentos específicos da Lei Maria da Penha."
+    },
+    {
+      "id": "D07",
+      "fonte": "ANEXO I - POP - Item 3 / 3.2 / I",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "I. Campo 'Dados Básicos': Natureza da Ocorrência Policial: Identificar com precisão os fatos que estão sendo narrados pela vítima, classificando cada um deles de acordo com os tipos penais disponíveis no sistema. A natureza principal da ocorrência deverá ser sempre 'LEI MARIA DA PENHA'. Delimitar como 'data do fato' o período temporal que englobe todos os delitos narrados e que não estejam prescritos. Endereço do Fato: Havendo a informação da prática de mais de dois crimes ocorridos em datas distintas, mas vinculados em razão da conexão material ou formal, deverá ser consignado como local do fato, seguindo a regra do Artigo 78 do CPP. Todas as viaturas envolvidas devem ser cadastradas."
+    },
+    {
+      "id": "D08",
+      "fonte": "ANEXO I - POP - Item 3 / 3.2 / II",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "II. Campo 'Condições Locais -Criminal': Tentar assinalar o máximo de informações possíveis quanto ao 'tipo de local', bem como os objetos e o meio empregado na ação delituosa."
+    },
+    {
+      "id": "D09",
+      "fonte": "ANEXO I - POP - Item 3 / 3.2 / III",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "III. Campo 'Pessoas Envolvidas': Consignar o maior número possível de informações corretas da vítima, do autor e das testemunhas, em especial endereço, telefones, WhatsApp, documentos e e-mail. Deve ser identificado o local de trabalho de todas as partes, bem como telefone comercial/residencial. Deixar consignado no campo 'outros contatos' telefones alternativos de familiares ou amigos."
+    },
+    {
+      "id": "D10",
+      "fonte": "ANEXO I - POP - Item 3 / 3.2 / IV",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "IV. Campo 'Veículos Envolvidos e Objetos Envolvidos': Relacionar todos os veículos e os objetos envolvidos na ocorrência."
+    },
+    {
+      "id": "D11",
+      "fonte": "ANEXO I - POP - Item 3 / 3.2 / V (a, b, c, d, e, f)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "V. Campo 'Histórico': A vítima deverá ser inquirida sobre os fatos apenas uma vez, salvo determinação policial. O histórico e termo de declarações devem conter: a) Estrutura do núcleo familiar do autor; b) Tipo de relacionamento e duração; c) Número de filhos comuns e idades; d) Se residem sob o mesmo teto; e) Medida jurídica para separação pretendida ou em curso; f) Solução de guarda, visitas e pensão de menores."
+    },
+    {
+      "id": "D12",
+      "fonte": "ANEXO I - POP - Item 3 / 3.2 / V (g, h, i, j)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "V. Campo 'Histórico' (cont.): g) Histórico de violência anterior, registros pretéritos, número, ano e Delegacia (anexar cópias); h) Andamento junto ao Judiciário e medidas vigentes (juntar cópia); i) Personalidade do autor (agressividade, drogas, álcool e tratamentos); j) Particularidades (episódios de separação e não aceitação do término)."
+    },
+    {
+      "id": "D13",
+      "fonte": "ANEXO I - POP - Item 3 / 3.2 / V (k, l, m, n)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "V. Campo 'Histórico' (cont.): k) Notícia de arma de fogo do autor (descrição, porte, registro e uso prévio); l) Condições da vítima em indicar onde a arma está para fins de representação de busca e apreensão judicial; m) Descrição pormenorizada das ações criminosas, datas e locais; n) Em agressão física, dinâmica do evento e lesões visíveis."
+    },
+    {
+      "id": "D14",
+      "fonte": "ANEXO I - POP - Item 3 / 3.2 / V (o, p, q, r, s, t, final)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "V. Campo 'Histórico' (cont.): o) Enumeração e qualificação de testemunhas; p) Harmonia das datas com dados básicos; q) Paradeiro do autor; r) Manifestação de representação criminal, ciência do prazo decadencial de 6 meses e impossibilidade de arquivamento policial; s) Oferta de medidas protetivas e Casa Abrigo; t) Autorização de intimações por telefone, e-mail ou WhatsApp. Adicionar 'Observações/Providências' com consultas PROCED/SIIC anexas."
+    },
+    {
+      "id": "D15",
+      "fonte": "ANEXO I - POP - Item 3 / 3.3 / a, b",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "a) Consultar os sistemas MILLENIUM, PROCED e SIIC de todos os envolvidos (inclusive testemunhas), anexando resultados à ocorrência e ao requerimento de medidas protetivas; b) Fotocopiar documentos pessoais das partes e filhos ausentes no sistema."
+    },
+    {
+      "id": "D16",
+      "fonte": "ANEXO I - POP - Item 3 / 3.3 / c, d",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "c) Encaminhar a vítima ao IML para Exame de Corpo de Delito se houver lesão aparente, gravidez (mesmo sem lesões) ou dores relatadas; d) Fotografar lesões aparentes na delegacia (não substitui o IML), colhendo autorização expressa por escrito da vítima para uso como prova."
+    },
+    {
+      "id": "D17",
+      "fonte": "ANEXO I - POP - Item 3 / 3.3 / e",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "e) Vítima hospitalizada deve ser entrevistada onde se encontre. Obter dados da guia de atendimento médico para exames indiretos e colher assinatura no Termo de Consentimento para acesso ao prontuário médico."
+    },
+    {
+      "id": "D18",
+      "fonte": "ANEXO I - POP - Item 3 / 3.3 / f, g",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "f) Crimes contra honra por WhatsApp ou pornografia de revanche: fotografar a tela, imprimir e anexar à ocorrência após autorização; g) A apreensão do celular pode ser substituída por mídia (exceto pen drive) fornecida pela vítima com os dados, orientando-a a preservar as provas no dispositivo original."
+    },
+    {
+      "id": "D19",
+      "fonte": "ANEXO I - POP - Item 3 / 3.3 / h, i, j",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "h) Juntar quaisquer materiais impressos que a vítima apresentar, mesmo que não comprovem diretamente o crime, mas sirvam para subsidiar a concessão de protetivas pelo juiz; i) Encaminhar veículo envolvido em violência sexual, dano ou sabotagem para perícia (pode ser apreendido para perícia no pátio); j) Solicitar microfilmagens de cártulas de cheques."
+    },
+    {
+      "id": "D20",
+      "fonte": "ANEXO I - POP - Item 3 / 3.3 / k, l, m, n",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "k) Verificar monitoramento de segurança pública ou privado no local dos fatos e requisitar imagens imediatamente; l) Reduzir a termo detalhado e imediato as declarações de todos os presentes na delegacia, incluindo testemunhas; m) Gerar Termo de Requerimento de Medidas Protetivas no Millenium e colher assinaturas; n) Fornecer o número do registro para emissão de cópias."
+    },
+    {
+      "id": "D21",
+      "fonte": "ANEXO I - POP - Item 3 / 3.3 / o, p, q",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "o) Se necessário, acompanhar a vítima para retirada segura de pertences pessoais do domicílio conjugal e transportá-la à DEAM para encaminhamento à Casa Abrigo; p) Registrar todas as diligências de apoio no histórico, ofícios e memorandos; q) Fotocopiar todas as provas e documentos produzidos."
+    },
+    {
+      "id": "D22",
+      "fonte": "ANEXO I - POP - Item 3 / 3.4 / I",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "I. Todos os documentos do registro policial devem ser integrados ao pedido de medidas protetivas de urgência em Autos Apartados conforme a Circular nº 06/2018-CGP."
+    },
+    {
+      "id": "D23",
+      "fonte": "ANEXO I - POP - Item 3 / 3.4 / II / a",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "II. Peculiaridades de preenchimento: a) Suspensão de posse ou restrição de porte de arma de fogo com comunicação aos órgãos competentes (Lei 10.826/2003) se o agressor possuir registro regular e tiver utilizado ou ameaçado utilizar a arma para o crime."
+    },
+    {
+      "id": "D24",
+      "fonte": "ANEXO I - POP - Item 3 / 3.4 / II / b, c, d, e",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "II. Peculiaridades de preenchimento (cont.): b) Afastamento imediato do lar ou local de convivência (mesmo imóvel funcional); c) Proibição de aproximação definindo limites mínimos (especificar residência, trabalho, postos de saúde, igreja). Definir responsável por intermediar guarda/visitas de menores; d) Proibição de contato por qualquer meio de comunicação; e) Proibição de frequentar locais específicos."
+    },
+    {
+      "id": "D25",
+      "fonte": "ANEXO I - POP - Item 3 / 3.4 / II / f, g, h",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "II. Peculiaridades de preenchimento (cont.): f) Restrição ou suspensão de visitas a dependentes menores; g) Prestação de alimentos provisionais ou provisórios (consignar dados bancários); h) Medidas de proteção patrimonial (restituição de bens subtraídos, proibição de alienação/venda de imóveis sem aval judicial, suspensão de procurações outorgadas ao agressor)."
+    },
+    {
+      "id": "D26",
+      "fonte": "ANEXO I - POP - Item 3 / 3.5",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "O preenchimento do questionário é obrigatório em todos os casos de registros sob a rubrica 'LEI MARIA DA PENHA'. Deve ser feito pela vítima, auxiliada pelo policial, se necessário. Na impossibilidade, marcar a opção específica 'vítima não teve condições'. Deve ser anexado ao pedido de protetivas e acompanhar inquéritos, termos de flagrante e comunicações de custódia."
+    },
+    {
+      "id": "D27",
+      "fonte": "ANEXO I - POP - Item 3 / 3.6 / I, II",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "I. Orientar a vítima sobre as regras do abrigamento e o sigilo público do local; II. Esclarecer que a admissão exige a apresentação de documentos pessoais dela e dos filhos, exceto em casos de impossibilidade justificada comunicada à instituição."
+    },
+    {
+      "id": "D28",
+      "fonte": "ANEXO I - POP - Item 3 / 3.6 / III / a, b, c, d, e",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "III. Condições de encaminhamento: a) Filhas não possuem limite de idade, mas filhos meninos são admitidos apenas até os 12 anos; b) Meninos maiores serão destinados a familiares ou albergues específicos via Conselho Tutelar; c) Destinado apenas a casos de risco real de morte, não como abrigo de conveniência; d) Prazo regular de 3 meses, cessado por desejo da mulher ou quebra de regras; e) Permitido levar pertences de uso essencial."
+    },
+    {
+      "id": "D29",
+      "fonte": "ANEXO I - POP - Item 3 / 3.6 / III / f (1, 2, 3)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "III. Fluxo operacional de encaminhamento: f) A DEAM é a unidade exclusiva para o envio à Casa Abrigo. Outras delegacias devem: 1. Contatar a DEAM para verificar vagas e restrições da vítima na Casa; 2. Aguardar o retorno da DEAM sobre a vaga; 3. Realizar as diligências preliminares na delegacia de origem antes de enviar a vítima à DEAM."
+    },
+    {
+      "id": "D30",
+      "fonte": "ANEXO I - POP - Item 3 / 3.6 / III / f (3.1 a 3.5)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "III. Diligências na origem antes de enviar à DEAM: 3.1. Buscar pertences, documentos e cartões de vacinação na residência; 3.2. Conduzir ao IML se necessário; 3.3. Encaminhar filhos não admitidos a familiares ou rede parceira via Conselho Tutelar; 3.4. Transportar a vítima à DEAM com o memorando de solicitação; 3.5. Executar requisições judiciais futuras."
+    },
+    {
+      "id": "D31",
+      "fonte": "ANEXO I - POP - Item 4",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "procedimento_policial",
+      "texto": "A Autoridade Policial, presentes os requisitos legais do caso concreto, deverá representar imediatamente pela Prisão Preventiva do agressor na hipótese do crime previsto no Art. 24-A da Lei 11.340/2006 (descumprimento de medidas protetivas), bem como representar pela busca e apreensão de arma de fogo noticiada pela vítima."
+    },
+    {
+      "id": "D32",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 3 / 3.1 / I, II, III",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "I. Sempre que possível, a vítima deve ser atendida por policial feminina, de forma reservada, sem pessoas estranhas e sem qualquer contato direto com o autor; II. Escuta empática, sem julgamentos, preconceitos de raça, classe, gênero, identidade de gênero ou orientação, nem perguntas que demonstrem dúvida sobre os fatos; III. Em abalo emocional, aguardar o tempo necessário sem demonstrar pressa."
+    },
+    {
+      "id": "D33",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 3 / 3.1 / IV, V, VI",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "IV. Relato deve ser de pronto levado ao Delegado para priorizar atendimento médico; V. Oitiva de envolvidos em separado: vítima, testemunhas e autor (se presente); VI. Informar a vítima sobre as etapas do acolhimento e procedimentos médicos obrigatórios na Rede de Saúde."
+    },
+    {
+      "id": "D34",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 3 / 3.2 / I, II, III, IV, V",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "I. Dados Básicos: Classificar naturezas penais de forma precisa. Ocorrências de 'ESTUPRO' devem ser mantidas em sigilo/reservado. Delimitar início e fim das práticas. Endereço exato da consumação; II. Condições Locais: Tipo de local e instrumentos; III. Pessoas: Informar endereços, e-mails, telefones, WhatsApp e local de trabalho de todos, incluindo contatos alternativos; IV. Características Físicas: Preencher detalhadamente; V. Veículos, Objetos e Modus Operandi."
+    },
+    {
+      "id": "D35",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 3 / 3.2 / VI (I a VI)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "VI. Campo Histórico: A oitiva será reduzida a termo em momento único com as seguintes informações: I. Vínculos de afeto, familiares ou amizade com o autor; II. Harmonia de datas; III. Detalhamento do local e trajetos; IV. Primeiro contato e testemunhas locais; V. Vestes da vítima na abordagem; VI. Consumo de bebida alcoólica ou substância que reduziu resistência."
+    },
+    {
+      "id": "D36",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 3 / 3.2 / VI (VII a XI)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "VI. Campo Histórico (cont.): VII. Dinâmica da abordagem (força física, ameaça, arma de fogo, facas); VIII. Dinâmica das agressões e lesões físicas visíveis; IX. Termos verbais de ameaça ou ofensa moral; X. Identificação do autor (vestimentas, odor, sotaque, cicatrizes, piercings, tatuagens, gírias, estatura); XI. Capacidade de reconhecimento formal e interesse em retrato falado."
+    },
+    {
+      "id": "D37",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 3 / 3.2 / VI (XII a XVIII)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "VI. Campo Histórico (cont.): XII. Detalhes biológicos (uso de preservativo, ejaculação interna/externa); XIII. Existência de armas de fogo com o autor; XIV. Indicação geográfica do local; XV. Descrição dos atos libidinosos (conjunção carnal, sexo anal, sexo oral, felação); XVI. Celular ou objetos subtraídos (IMEI); XVII. Relação de testemunhas; XVIII. Paradeiro do autor."
+    },
+    {
+      "id": "D38",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 3 / 3.2 / VI (XIX a XXIV)",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "VI. Campo Histórico (cont.): XIX. Descrição detalhada do veículo usado para abordagem ou fuga; XX. Local onde a vítima foi encontrada e quem a socorreu; XXI. Entrega de roupas (íntimas) usadas na violência sexual; XXII. Data da última relação sexual consensual; XXIII. Consentimento para intimações via WhatsApp/e-mail; XXIV. Detalhes adicionais do caso. Observações adicionais em campo separado com pesquisas de sistema anexas."
+    },
+    {
+      "id": "D39",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 4 / I, II, III",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "I. Ofertar prioritariamente a 'bolsa de crise' caso as roupas da vítima precisem ser apreendidas ou estejam rasgadas/sujas; II. Consultar sistemas MILLENIUM, PROCED e SIIC de todos os envolvidos e anexar; III. Fotocopiar documentos pessoais das partes e filhos ausentes no banco."
+    },
+    {
+      "id": "D40",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 4 / IV, V",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "IV. Encaminhar para Exame de Corpo de Delito no IML, exceto se os fatos forem muito antigos sem condições de vestígios físicos (contudo, menores de 14 anos devem ser sempre encaminhados para avaliar ruptura de hímen); V. Fotografar lesões corporais visíveis com autorização expressa escrita da vítima."
+    },
+    {
+      "id": "D41",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 4 / VI, VII, VIII, IX",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "VI. Vítima hospitalizada deve ser ouvida no local. Obter dados dos profissionais de assistência social do hospital e a guia de atendimento. Colher assinatura no termo de consentimento de acesso ao prontuário médico; VII. Reduzir a termo imediato as oitivas; VIII. Fornecer número de ocorrência; IX. Realizar reconhecimento formal se o autor for localizado, e encaminhá-lo para coleta de DNA no IPDNA."
+    },
+    {
+      "id": "D42",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 4 / X, XI, XII, XIII, XIV",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "X. Deslocamento imediato do Delegado ao local dos fatos para preservar vestígios e acionar a perícia; XI. Vítima pode acompanhar a equipe policial ao local para indicação geográfica, se consentir e estiver estável; XII. Requisitar imagens de câmeras de monitoramento do perímetro; XIII. Apreender veículo caso a violência tenha ocorrido em seu interior para realização de perícia minuciosa; XIV. Retrato falado no Instituto de Identificação."
+    },
+    {
+      "id": "D43",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 4 / XV, XVI, XVII",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "XV. Guia do IML para verificação de conjunção carnal, atos libidinosos, lesões físicas, toxicológico e embriaguez (caso suspeite de dopagem), e coleta de material biológico sob as unhas (luta corporal); XVI. Exame de constatação de gravidez emergencial no IML; XVII. Acionar seção de investigação policial."
+    },
+    {
+      "id": "D44",
+      "fonte": "ANEXO II - Atendimento Integrado - Item 4 / XVIII, XIX",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "fluxo_integrado",
+      "texto": "XVIII. Encaminhar a vítima imediatamente ao Programa de Pesquisa, Assistência e Vigilância em Violência (PAV) da Secretaria de Saúde para Profilaxia Pós-Exposição (PEP) de HIV. Explicar a importância de iniciar o tratamento nas primeiras 2 horas e no limite máximo de 72 horas, pelo período de 28 dias; XIX. Registrar todas as providências formais em ofícios e relatórios."
+    },
+    {
+      "id": "D45",
+      "fonte": "ANEXO III - Diretrizes - Item 3 / I, II",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "diretriz_pericial",
+      "texto": "I. Oferecer prioritariamente a 'bolsa de crise' à vítima, principalmente se suas roupas forem recolhidas para exames ou se estiverem rasgadas; II. Sempre que possível, o atendimento pericial será realizado por profissional feminina, de forma reservada, sem contatos e sem exposição ao agressor."
+    },
+    {
+      "id": "D46",
+      "fonte": "ANEXO III - Diretrizes - Item 3 / III, IV, V",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "diretriz_pericial",
+      "texto": "III. Escuta empática livre de preconceitos de raça, etnia, classe social, renda, identidade de gênero ou orientação sexual. Abster-se de emitir dúvidas ou questionamentos morais; IV. Respeitar o uso do Nome Social (Decreto nº 37.982/2017) perguntando como a vítima deseja ser tratada; V. Diante de abalo emocional, respeitar o tempo da vítima sem demonstrar pressa."
+    },
+    {
+      "id": "D47",
+      "fonte": "ANEXO III - Diretrizes - Item 3 / VI, VII",
+      "data": "2026-07-16",
+      "vigente": true,
+      "tipo": "diretriz_pericial",
+      "texto": "VI. Explicar detalhadamente todas as etapas do procedimento de perícia oficial bem como os encaminhamentos médicos integrados com a Rede de Saúde; VII. Informar à vítima os prazos normativos e a previsão legal para a conclusão e entrega do Laudo Pericial."
+    }
+  ],
+  "queries_benchmark": [
+    {
+      "id": "Q01",
+      "query": "Qual procedimento se a mulher agredida estiver muito abalada emocionalmente e chorando muito?",
+      "relevancia": {
+        "D03": 2,
+        "D32": 2,
+        "D46": 2
+      }
+    },
+    {
+      "id": "Q02",
+      "query": "Como proceder se houver indícios ou relatos de que o agressor possui armas de fogo guardadas em casa?",
+      "relevancia": {
+        "D13": 2,
+        "D23": 2,
+        "D31": 2
+      }
+    },
+    {
+      "id": "Q03",
+      "query": "Qual o prazo legal máximo para o delegado encaminhar as medidas protetivas de urgência para o juiz da comarca?",
+      "relevancia": {
+        "D22": 2
+      }
+    },
+    {
+      "id": "Q04",
+      "query": "procedimento policial encaminhamento abrigo sigiloso integridade física iminente risco",
+      "relevancia": {
+        "D21": 2,
+        "D27": 2,
+        "D28": 2,
+        "D29": 2,
+        "D30": 2
+      }
+    },
+    {
+      "id": "Q05",
+      "query": "Se o suspeito descumprir a medida protetiva e for pego na rua da vítima, o que o plantonista deve fazer?",
+      "relevancia": {
+        "D31": 2
+      }
+    },
+    {
+      "id": "Q06",
+      "query": "A vítima pode ser atendida por qualquer agente no plantão ou existe preferência de gênero?",
+      "relevancia": {
+        "D01": 2,
+        "D32": 2,
+        "D45": 2
+      }
+    },
+    {
+      "id": "Q07",
+      "query": "Como deve ser feita a coleta de provas biológicas e DNA em crimes sexuais no âmbito doméstico pelo perito?",
+      "relevancia": {
+        "D38": 1,
+        "D41": 1,
+        "D43": 2
+      }
+    },
+    {
+      "id": "Q08",
+      "query": "Qual o prazo limite fixado para o perito oficial do IML entregar o laudo definitivo de lesão corporal?",
+      "relevancia": {
+        "D47": 2
+      }
+    },
+    {
+      "id": "Q09",
+      "query": "Como fazer o tratamento e a coleta de mensagens eletrônicas e ameaças por WhatsApp no plantão policial?",
+      "relevancia": {
+        "D18": 2
+      }
+    },
+    {
+      "id": "Q10",
+      "query": "Se a vítima não quiser registrar queixa mas estiver sangrando com lesões visíveis, o delegado pode prosseguir?",
+      "relevancia": {
+        "D04": 2,
+        "D16": 2,
+        "D40": 2
+      }
+    },
+    {
+      "id": "Q11",
+      "query": "Quais informações devem obrigatoriamente constar na qualificação do agressor no boletim de ocorrência de violência?",
+      "relevancia": {
+        "D09": 2,
+        "D11": 2,
+        "D12": 2
+      }
+    },
+    {
+      "id": "Q12",
+      "query": "A vítima precisa retirar as roupas e pertences da casa comum sozinha ou a polícia acompanha?",
+      "relevancia": {
+        "D21": 2,
+        "D30": 2
+      }
+    },
+    {
+      "id": "Q13",
+      "query": "Como funciona o acionamento da rede em caso de disparo do botão de pânico por uma mulher sob proteção?",
+      "relevancia": {
+        "D20": 2,
+        "D42": 2
+      }
+    },
+    {
+      "id": "Q14",
+      "query": "O perito pode analisar danos psíquicos e violência psicológica no laudo oficial do crime?",
+      "relevancia": {
+        "D02": 2,
+        "D32": 2,
+        "D46": 2
+      }
+    },
+    {
+      "id": "Q15",
+      "query": "O que acontece se o agressor descumprir as medidas judiciais e faltar às aulas do programa de reeducação?",
+      "relevancia": {
+        "D31": 2
+      }
+    },
+    {
+      "id": "Q16",
+      "query": "Quais providências o delegado toma com o registro de arma se o autor do crime for registrado como CAC?",
+      "relevancia": {
+        "D13": 2,
+        "D23": 2,
+        "D31": 2
+      }
+    },
+    {
+      "id": "Q17",
+      "query": "A autoridade policial plantonista pode arbitrar fiança em caso de flagrante por descumprimento de protetiva?",
+      "relevancia": {
+        "D31": 2
+      }
+    },
+    {
+      "id": "Q18",
+      "query": "Como garantir a segurança e integridade física de uma vítima durante a oitiva no plantão para evitar contatos?",
+      "relevancia": {
+        "D01": 2,
+        "D32": 2,
+        "D45": 2
+      }
+    },
+    {
+      "id": "Q19",
+      "query": "Qual documento de preenchimento obrigatório deve subsidiar o pedido judicial inicial de medidas urgentes?",
+      "relevancia": {
+        "D26": 2
+      }
+    },
+    {
+      "id": "Q20",
+      "query": "Como proceder em casos onde o imóvel da vítima apresenta portas ou janelas arrombadas pelo agressor?",
+      "relevancia": {
+        "D19": 2,
+        "D42": 2
+      }
+    },
+    {
+      "id": "Q21",
+      "query": "procedimento oitiva audiovisual para evitar revitimização depoimento da mulher",
+      "relevancia": {
+        "D14": 1,
+        "D38": 1
+      }
+    },
+    {
+      "id": "Q22",
+      "query": "Se não houver Defensoria Pública na cidade da ocorrência, como fica a assistência jurídica da vítima?",
+      "relevancia": {
+        "D14": 1,
+        "D38": 1
+      }
+    },
+    {
+      "id": "Q23",
+      "query": "Quais são as diretrizes de escuta empática e preconceitos de gênero no atendimento inicial da vítima?",
+      "relevancia": {
+        "D02": 2,
+        "D32": 2,
+        "D46": 2
+      }
+    },
+    {
+      "id": "Q24",
+      "query": "Quem deve receber a cópia eletrônica das decisões do Judiciário para fiscalizar a rotina de visitas da mulher?",
+      "relevancia": {
+        "D24": 1,
+        "D31": 2
+      }
+    },
+    {
+      "id": "Q25",
+      "query": "Como encaminhar a vítima para acompanhamento contínuo no CREAS após o fechamento do boletim de ocorrência?",
+      "relevancia": {
+        "D14": 2,
+        "D21": 2
+      }
+    },
+    {
+      "id": "Q26",
+      "query": "Qual o protocolo pericial se a violência sexual ocorreu há mais de 72 horas e não tem vestígio biológico?",
+      "relevancia": {
+        "D40": 2,
+        "D43": 1
+      }
+    },
+    {
+      "id": "Q27",
+      "query": "A equipe de policiais pode estar presente na sala de exame do IML durante a perícia da agressão?",
+      "relevancia": {
+        "D45": 2
+      }
+    },
+    {
+      "id": "Q28",
+      "query": "Como utilizar o prontuário hospitalar da vítima para reforçar o acervo probatório do inquérito policial?",
+      "relevancia": {
+        "D17": 2,
+        "D41": 2
+      }
+    },
+    {
+      "id": "Q29",
+      "query": "Onde devem ser guardadas as roupas recolhidas da vítima para fins de exame genético criminal?",
+      "relevancia": {
+        "D38": 2,
+        "D39": 1,
+        "D45": 1
+      }
+    },
+    {
+      "id": "Q30",
+      "query": "A fixação imediata de alimentos provisionais de subsistência pode constar no mesmo termo de medidas protetivas?",
+      "relevancia": {
+        "D25": 2
+      }
+    },
+    {
+      "id": "Q31",
+      "query": "Quais os crimes e situações domésticas que recebem prioridade absoluta na confecção de laudos no instituto de criminalística?",
+      "relevancia": {
+        "D47": 2
+      }
+    },
+    {
+      "id": "Q32",
+      "query": "Como deve ser feita a fotografia das marcas de violência física para compor o laudo pericial oficial?",
+      "relevancia": {
+        "D16": 2,
+        "D40": 2
+      }
+    },
+    {
+      "id": "Q33",
+      "query": "Quais os critérios para o delegado afastar o agressor de casa diretamente sem ordem judicial?",
+      "relevancia": {
+        "D24": 2,
+        "D31": 2
+      }
+    },
+    {
+      "id": "Q34",
+      "query": "Como proceder na oitiva de crianças e filhos menores da vítima que presenciaram a agressão?",
+      "relevancia": {
+        "D30": 2
+      }
+    },
+    {
+      "id": "Q35",
+      "query": "Quais providências de encaminhamento emergencial para profilaxia de infecções transmissíveis devem ser tomadas?",
+      "relevancia": {
+        "D44": 2
+      }
+    },
+    {
+      "id": "Q36",
+      "query": "Qual o fluxo integrado entre polícia e órgãos assistenciais para emissão de guias de acolhimento e exames?",
+      "relevancia": {
+        "D21": 2,
+        "D30": 2
+      }
+    },
+    {
+      "id": "Q37",
+      "query": "Se vizinhos ligarem no 190 informando brigas e descumprimento de ordem, a viatura é obrigada a ir ao local?",
+      "relevancia": {
+        "D31": 1
+      }
+    },
+    {
+      "id": "Q38",
+      "query": "Como realizar o exame balístico se houver indício de disparos de arma de fogo na residência do casal?",
+      "relevancia": {
+        "D13": 2,
+        "D31": 1
+      }
+    },
+    {
+      "id": "Q39",
+      "query": "Quais são as obrigações legais da equipe policial no tocante à escolta e transporte seguro para a rede municipal de proteção?",
+      "relevancia": {
+        "D21": 2,
+        "D30": 2
+      }
+    },
+    {
+      "id": "Q40",
+      "query": "Como correlacionar o histórico prévio registrado e a dinâmica das lesões no exame pericial definitivo de corpo de delito?",
+      "relevancia": {
+        "D12": 1,
+        "D13": 2,
+        "D16": 2,
+        "D35": 2,
+        "D36": 2
+      }
+    }
+  ]
+}

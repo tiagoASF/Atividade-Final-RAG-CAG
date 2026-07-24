@@ -1,0 +1,69 @@
+# Projeto Final (Aula 12) - API de Ingestao Inteligente + RAG
+# pip install -r requirements.txt  (ambiente virtual ATIVADO)
+
+pip_system_certs
+truststore
+
+# --- API ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9       # upload de arquivos (UploadFile)
+pydantic>=2.6
+numpy==1.26.4
+
+hf_xet
+
+# --- Orquestracao / RAG ---
+haystack-ai==2.22.0            # Agent (decisao de extracao) + pipelines de busca
+opensearch-haystack==3.0.0     # indexacao/busca densa
+ollama-haystack==4.0.0         # embeddings (nomic-embed-text)
+openai==1.99.2
+
+# --- Extracao de documentos ---
+docling>=2.0                  # PDF/DOCX + OCR (do_ocr=True) para figuras/escaneados
+transformers>=4.49,<5         # layout do Docling usa rt_detr_v2 (>=4.49); <5 evita quebra
+pymupdf>=1.24                 # probe do PDF (camada de texto, imagens) -> import fitz
+pandas>=2.0                   # planilhas (XLSX/CSV)
+openpyxl>=3.1                 # leitura de .xlsx
+tabulate>=0.9                 # df.to_markdown()
+
+scikit-learn==1.5.0
+umap-learn==0.5.6
+
+# --- Grafo (destino opcional) ---
+lightrag-hku>=1.4             # indexacao em grafo (quando a heuristica escolher)
+networkx>=3.0                 # ler o GraphML do LightRAG no /graph (vem com lightrag, fixado p/ clareza)
+
+# --- Observabilidade (Langfuse) ---
+langfuse==4.14.0                  # tracing da busca (grafo via @observe; chaves no .env)
+langfuse-haystack==5.2.0         # LangfuseConnector (auto-trace do pipeline de busca OpenSearch)
+
+# --- Interface ---
+gradio>=4.44                  # interface web da API (interface.py)
+requests==2.32.3               # interface -> API
+
+# --- Utilidades ---
+python-dotenv==1.0.1
+
+# Notas:
+# - LLM (Groq): llama-3.3-70b-versatile (tool calling) -> nao usar gpt-oss (reasoning).
+# - Embedding: nomic-embed-text (Ollama) -> ollama pull nomic-embed-text.
+# - OpenSearch via docker-compose (datasets/docker-compose.yml).
+
+nltk
+
+# --- Ragas e LLM Modernos ---
+sentence-transformers       # Motor de embedding local
+
+ragas==0.2.12               # Versão estável sem os bugs de pathing das v0.1
+
+langchain-core==0.2.33
+langchain-openai==0.1.22
+langchain-community==0.2.11
+langchain-ollama==0.1.1
+langchain-huggingface==0.0.3
+
+datasets==2.19.0
+
+seaborn
+matplotlib

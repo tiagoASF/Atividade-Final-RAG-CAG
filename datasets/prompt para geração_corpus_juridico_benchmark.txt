@@ -1,0 +1,48 @@
+Preciso montar um dataset de benchmark de embeddings com base na seguinte estrutura:
+{
+  "metadata": {
+    "titulo": "Corpus Jurídico Benchmark — Aula 11",
+    "curso": "MBA RAG & CAG Aplicados a Direito e Segurança Pública",
+    "versao": "1.0",
+    "data_criacao": "2026-07-06",
+    "total_documentos": 50,
+    "total_queries": 40,
+    "dominios": ["Direito Penal", "Processo Penal", "Legislação Especial", "Segurança Pública"]
+  },
+  "documentos": [
+    {"id": "D01", "fonte": "CP Art. 157", "data": "1940-12-07", "vigente": true, "tipo": "legislacao",
+     "texto": "Roubo (Art. 157 CP): subtração de coisa móvel mediante grave ameaça ou violência. Pena: 4 a 10 anos. Majorado com arma de fogo: 2/3 da pena. Roubo qualificado com morte: latrocínio (Art. 157, §3º, II)."},
+    
+  ],
+  "queries_benchmark": [
+    {"id": "Q01", "query": "requisitos tráfico privilegiado pena redução", "relevancia": {"D06": 2, "D05": 1, "D07": 1, "D08": 1}}
+    
+  ]
+}
+Onde voce deve considerar o PDF anexo para montar tanto documentos quanto a parte de queries e me retorne um json no mesmo formato contendo 50 documentos e 40 queries.
+Retorne apenas o Json. Envio anexo um json de exemplo de um dataset já formado corretamente.
+
+Instruções para a geração:
+a) Considere que você é um policial, delegado ou perito que está atendendo uma ocorrência de violência doméstica e está com dúvidas sobre como proceder. Faça perguntas relevantes.
+
+b) Na geração dos documentos, incluir toda a hierarquia do subitem. Considere o seguinte trecho:
+3. DAS DILIGÊNCIAS POLICIAIS DE ACOLHIMENTO:
+3.1. Do acolhimento inicial:
+I. Sempre que possível, a vítima deve ser atendida por policial feminina, de forma reservada e entrevistada sem a presença de pessoas estranhas. O mesmo tratamento deve ser dado às testemunhas. Em nenhuma hipótese, a mulher em situação de violência doméstica e familiar e as testemunhas terão contato direto com o autor ou pessoas a eles relacionadas.
+II. A vítima deve ser acolhida em escuta empática, abstendo-se o policial de julgamentos, críticas e exteriorizações de preconceitos em relação à classe, raça, etnia, orientação sexual, renda, cultura e nível educacional, idade, religião e identidade de gênero ou demais questionamentos que possam demonstrar dúvida quanto à veracidade dos fatos. A vítima deve ser orientada a fornecer o máximo de detalhes sobre o fato.
+III. Caso a vítima demonstre abalo emocional, o policial deve aguardar até que ela consiga narrar os fatos de forma fidedigna, inclusive tranquilizando-a no sentido de que não há nenhuma pressa quanto ao seu atendimento.
+
+Em um documento do subitem 3.1.III, incluir no começo os itens 3 e 3.1, da seguinte forma:
+3. DAS DILIGÊNCIAS POLICIAIS DE ACOLHIMENTO:
+3.1. Do acolhimento inicial:
+III. Caso a vítima demonstre abalo emocional, o policial deve aguardar até que ela consiga narrar os fatos de forma fidedigna, inclusive tranquilizando-a no sentido de que não há nenhuma pressa quanto ao seu atendimento.
+
+c) Em cada Anexo, desconsiderar a seção 2 de considerações iniciais. O foco das perguntas deve ser nos procedimentos
+
+d) Gere uma quantidade de documentos e questões proporcional ao tamanho de cada anexo (ANEXO I, ANEXO II e ANEXO III).
+
+e) Misture as perguntas e documentos de cada anexo de forma que não fiquem em sequência no json.
+
+f) Inclua perguntas de 3 tipos: factual de 1 documento; reformulável, ou seja, para testar algoritmos de multi-query ou step-back; e temática/multi-hop (vários documentos — para testar RAG-Fusion e grafo).
+
+

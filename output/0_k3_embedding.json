@@ -1,0 +1,86 @@
+{
+    "k": 3,
+    "resultados": [
+        {
+            "hit@3": 0.45,
+            "recall@3": 0.2633,
+            "mrr": 0.3194,
+            "ndcg@3": 0.215,
+            "auc": 0.6666,
+            "n_queries": 40,
+            "modelo": "nomic-embed-text",
+            "dim": 768,
+            "latencia_s": 3.2
+        },
+        {
+            "hit@3": 0.625,
+            "recall@3": 0.4442,
+            "mrr": 0.5576,
+            "ndcg@3": 0.429,
+            "auc": 0.8139,
+            "n_queries": 40,
+            "modelo": "bge-m3",
+            "dim": 1024,
+            "latencia_s": 7.57
+        },
+        {
+            "hit@3": 0.425,
+            "recall@3": 0.305,
+            "mrr": 0.3679,
+            "ndcg@3": 0.2688,
+            "auc": 0.7398,
+            "n_queries": 40,
+            "modelo": "bge-large:latest",
+            "dim": 1024,
+            "latencia_s": 5.68
+        },
+        {
+            "hit@3": 0.4,
+            "recall@3": 0.2917,
+            "mrr": 0.3757,
+            "ndcg@3": 0.2605,
+            "auc": 0.734,
+            "n_queries": 40,
+            "modelo": "mxbai-embed-large",
+            "dim": 1024,
+            "latencia_s": 6.17
+        },
+        {
+            "hit@3": 0.35,
+            "recall@3": 0.1892,
+            "mrr": 0.2779,
+            "ndcg@3": 0.16,
+            "auc": 0.6325,
+            "n_queries": 40,
+            "modelo": "snowflake-arctic-embed:latest",
+            "dim": 1024,
+            "latencia_s": 6.06
+        },
+        {
+            "hit@3": 0.525,
+            "recall@3": 0.3283,
+            "mrr": 0.489,
+            "ndcg@3": 0.3174,
+            "auc": 0.8057,
+            "n_queries": 40,
+            "modelo": "granite-embedding:278m",
+            "dim": 768,
+            "latencia_s": 4.92
+        },
+        {
+            "hit@3": 0.6,
+            "recall@3": 0.4225,
+            "mrr": 0.5297,
+            "ndcg@3": 0.4106,
+            "auc": 0.7928,
+            "n_queries": 40,
+            "modelo": "paraphrase-multilingual:latest",
+            "dim": 768,
+            "latencia_s": 9.43
+        }
+    ],
+    "melhor": "bge-m3",
+    "explicacao": "**Recomendado: bge-m3** — lidera o ranking (NDCG@3=0.429), com Recall@3=0.4442 e Separabilidade (AUC)=0.8139 (dim=1024, latencia=7.57s).\n\nPor família de métrica:\n- Ranking (NDCG@3): melhor = **bge-m3** (o que ordena os relevantes mais no topo).\n- Recuperação (Recall@3): melhor = **bge-m3** (traz mais relevantes no top-3).\n- Separabilidade (AUC-ROC): melhor = **bge-m3** (melhor separa relevante de não-relevante).\n- Mais rápido: **nomic-embed-text** (3.2s).",
+    "corpus": 47,
+    "queries": 40
+}

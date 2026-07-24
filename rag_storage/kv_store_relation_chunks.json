@@ -1,0 +1,1507 @@
+{
+  "IPDNA<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "IPDNA<SEP>Vítima"
+  },
+  "Hospital<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Hospital<SEP>Vítima"
+  },
+  "Autoridade Policial<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 5,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Vítima"
+  },
+  "Corregedoria-Geral de Polícia<SEP>PCDF": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Corregedoria-Geral de Polícia<SEP>PCDF"
+  },
+  "Sistema Millenium<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Sistema Millenium<SEP>Vítima"
+  },
+  "Autoridade Policial<SEP>Delegacia de Polícia": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Delegacia de Polícia"
+  },
+  "Instituto de Medicina Legal<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instituto de Medicina Legal<SEP>Vítima"
+  },
+  "Autoridade Policial<SEP>Veículo da Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Veículo da Vítima"
+  },
+  "PAV<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "PAV<SEP>Vítima"
+  },
+  "Autoridade Policial<SEP>Testemunhas": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Testemunhas"
+  },
+  "Departamento de Polícia Técnica<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Departamento de Polícia Técnica<SEP>Vítima"
+  },
+  "PAV<SEP>Secretaria de Estado de Saúde": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "PAV<SEP>Secretaria de Estado de Saúde"
+  },
+  "Instituto de Identificação<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instituto de Identificação<SEP>Vítima"
+  },
+  "Lei 11.340/2006<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Lei 11.340/2006<SEP>Vítima"
+  },
+  "Profissionais de Saúde<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Profissionais de Saúde<SEP>Vítima"
+  },
+  "Departamento de Polícia Técnica<SEP>Lei 11.340/2006": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Departamento de Polícia Técnica<SEP>Lei 11.340/2006"
+  },
+  "Autoridade Policial<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Ocorrência Policial"
+  },
+  "Testemunhas<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Testemunhas<SEP>Vítima"
+  },
+  "Departamento de Polícia Técnica<SEP>Lei 13.721/2018": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Departamento de Polícia Técnica<SEP>Lei 13.721/2018"
+  },
+  "Magistrado<SEP>Medidas Protetivas De Urgência": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Magistrado<SEP>Medidas Protetivas De Urgência"
+  },
+  "Veículo da Vítima<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Veículo da Vítima<SEP>Vítima"
+  },
+  "Agressor<SEP>Medidas Protetivas De Urgência": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Agressor<SEP>Medidas Protetivas De Urgência"
+  },
+  "Termo De Consentimento<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Termo De Consentimento<SEP>Vítima"
+  },
+  "Agressor<SEP>Lei N. 10.826/2003": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Agressor<SEP>Lei N. 10.826/2003"
+  },
+  "Termo De Requerimento De Medidas Protetivas<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Termo De Requerimento De Medidas Protetivas<SEP>Vítima"
+  },
+  "Ocorrência Policial<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>Vítima"
+  },
+  "Sistema Millenium<SEP>Termo De Requerimento De Medidas Protetivas": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Sistema Millenium<SEP>Termo De Requerimento De Medidas Protetivas"
+  },
+  "Casa Abrigo<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Casa Abrigo<SEP>Vítima"
+  },
+  "Instituto De Criminalística<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instituto De Criminalística<SEP>Ocorrência Policial"
+  },
+  "Corregedoria-Geral De Polícia<SEP>Termo De Requerimento De Medidas Protetivas": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Corregedoria-Geral De Polícia<SEP>Termo De Requerimento De Medidas Protetivas"
+  },
+  "Agressor<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Agressor<SEP>Vítima"
+  },
+  "Ocorrência Policial<SEP>Testemunha": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>Testemunha"
+  },
+  "Autoridade Policial<SEP>Veículo": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Veículo"
+  },
+  "Circular Nº 06/2018<SEP>Corregedoria-Geral De Polícia": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Circular Nº 06/2018<SEP>Corregedoria-Geral De Polícia"
+  },
+  "Vítima<SEP>WhatsApp": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Vítima<SEP>WhatsApp"
+  },
+  "Autoridade Policial<SEP>Sistema De Monitoramento": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Sistema De Monitoramento"
+  },
+  "Ocorrência Policial<SEP>WhatsApp": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>WhatsApp"
+  },
+  "Mídia<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Mídia<SEP>Vítima"
+  },
+  "Police Officer<SEP>Victim": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Police Officer<SEP>Victim"
+  },
+  "Cártulas De Cheques<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Cártulas De Cheques<SEP>Vítima"
+  },
+  "Author<SEP>Victim": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Author<SEP>Victim"
+  },
+  "Filho Menor<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Filho Menor<SEP>Vítima"
+  },
+  "Police Authority<SEP>Victim": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Police Authority<SEP>Victim"
+  },
+  "Delegacia De Polícia<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia De Polícia<SEP>Vítima"
+  },
+  "Agressor<SEP>Filho Menor": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Agressor<SEP>Filho Menor"
+  },
+  "Health Network<SEP>Victim": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Health Network<SEP>Victim"
+  },
+  "Police Report<SEP>Victim": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Police Report<SEP>Victim"
+  },
+  "History Field<SEP>Modus Operandi": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "History Field<SEP>Modus Operandi"
+  },
+  "Victim<SEP>Witness": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Victim<SEP>Witness"
+  },
+  "Author<SEP>Police Report": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Author<SEP>Police Report"
+  },
+  "Facial Composite<SEP>Victim": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Facial Composite<SEP>Victim"
+  },
+  "Police Report<SEP>Rape": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Police Report<SEP>Rape"
+  },
+  "Basic Data Field<SEP>Police Report": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Basic Data Field<SEP>Police Report"
+  },
+  "Author<SEP>Weapon": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Author<SEP>Weapon"
+  },
+  "Código de Processo Penal<SEP>Lei nº 13.721/2018": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Código de Processo Penal<SEP>Lei nº 13.721/2018"
+  },
+  "Local Conditions - Criminal Field<SEP>Police Report": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Local Conditions - Criminal Field<SEP>Police Report"
+  },
+  "Policial<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Policial<SEP>Vítima"
+  },
+  "Involved Persons Field<SEP>Police Report": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Involved Persons Field<SEP>Police Report"
+  },
+  "Local Conditions - Criminal Field<SEP>Police Vehicle": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Local Conditions - Criminal Field<SEP>Police Vehicle"
+  },
+  "Nome Social<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Nome Social<SEP>Vítima"
+  },
+  "Bolsa de Crise<SEP>Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Bolsa de Crise<SEP>Policial"
+  },
+  "Conselho Federal de Medicina<SEP>Médicos": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Conselho Federal de Medicina<SEP>Médicos"
+  },
+  "Physical Characteristics Field<SEP>Police Report": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Physical Characteristics Field<SEP>Police Report"
+  },
+  "Código Penal<SEP>Lei nº 11.340/2006": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Código Penal<SEP>Lei nº 11.340/2006"
+  },
+  "Rede de Saúde<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Rede de Saúde<SEP>Vítima"
+  },
+  "Corregedoria-Geral de Polícia<SEP>Norma de Serviço nº 04/2017": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Corregedoria-Geral de Polícia<SEP>Norma de Serviço nº 04/2017"
+  },
+  "Police Report<SEP>Vehicles, Objects and Modus Operandi Field": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Police Report<SEP>Vehicles, Objects and Modus Operandi Field"
+  },
+  "Distrito Federal<SEP>Lei nº 12.845/2013": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Distrito Federal<SEP>Lei nº 12.845/2013"
+  },
+  "Autor<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 4,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autor<SEP>Vítima"
+  },
+  "Governo Do Distrito Federal<SEP>Polícia Civil Do Distrito Federal": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Governo Do Distrito Federal<SEP>Polícia Civil Do Distrito Federal"
+  },
+  "Delegacias De Polícia<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacias De Polícia<SEP>Procedimento Operacional Padrão"
+  },
+  "Exame Pericial<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Exame Pericial<SEP>Vítima"
+  },
+  "Corregedoria-Geral De Polícia<SEP>Polícia Civil Do Distrito Federal": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Corregedoria-Geral De Polícia<SEP>Polícia Civil Do Distrito Federal"
+  },
+  "Mulheres Vítimas De Violência Doméstica E Familiar<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Mulheres Vítimas De Violência Doméstica E Familiar<SEP>Procedimento Operacional Padrão"
+  },
+  "Laudos<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Laudos<SEP>Vítima"
+  },
+  "Lei 11.340/2006<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Lei 11.340/2006<SEP>Procedimento Operacional Padrão"
+  },
+  "Mulheres Vítimas De Violência Doméstica E Familiar<SEP>Policial Feminina": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Mulheres Vítimas De Violência Doméstica E Familiar<SEP>Policial Feminina"
+  },
+  "Autoridade Policial<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Procedimento Operacional Padrão"
+  },
+  "Corregedoria-Geral De Polícia<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Corregedoria-Geral De Polícia<SEP>Procedimento Operacional Padrão"
+  },
+  "Medidas Protetivas De Urgência<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Medidas Protetivas De Urgência<SEP>Procedimento Operacional Padrão"
+  },
+  "Procedimento Operacional Padrão<SEP>Questionário De Avalição De Risco": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Procedimento Operacional Padrão<SEP>Questionário De Avalição De Risco"
+  },
+  "Lei 13.431/2017<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Lei 13.431/2017<SEP>Procedimento Operacional Padrão"
+  },
+  "Circular Nº 06/2018<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Circular Nº 06/2018<SEP>Procedimento Operacional Padrão"
+  },
+  "Agressor<SEP>Ofendida": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Agressor<SEP>Ofendida"
+  },
+  "Lei 10.048/2000<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Lei 10.048/2000<SEP>Procedimento Operacional Padrão"
+  },
+  "Ofendida<SEP>Questionário De Avaliação De Risco": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ofendida<SEP>Questionário De Avaliação De Risco"
+  },
+  "Norma De Serviço Nº 04/2017<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Norma De Serviço Nº 04/2017<SEP>Procedimento Operacional Padrão"
+  },
+  "Polícia Civil<SEP>Questionário De Avaliação De Risco": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Polícia Civil<SEP>Questionário De Avaliação De Risco"
+  },
+  "Poder Judiciário<SEP>Requerimento Por Medidas Protetivas De Urgência": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Poder Judiciário<SEP>Requerimento Por Medidas Protetivas De Urgência"
+  },
+  "Norma De Serviço Nº 09/2012<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Norma De Serviço Nº 09/2012<SEP>Procedimento Operacional Padrão"
+  },
+  "Lei Maria Da Penha<SEP>Questionário De Avaliação De Risco": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Lei Maria Da Penha<SEP>Questionário De Avaliação De Risco"
+  },
+  "Casa Abrigo<SEP>Delegacia Especial De Atendimento À Mulher": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Casa Abrigo<SEP>Delegacia Especial De Atendimento À Mulher"
+  },
+  "Instrução Normativa Nº 95/2003<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instrução Normativa Nº 95/2003<SEP>Procedimento Operacional Padrão"
+  },
+  "Conselho Tutelar<SEP>Dependentes Menores": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Conselho Tutelar<SEP>Dependentes Menores"
+  },
+  "Casa Abrigo<SEP>Ofendida": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Casa Abrigo<SEP>Ofendida"
+  },
+  "Agressor<SEP>Autoridade Judiciária": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Agressor<SEP>Autoridade Judiciária"
+  },
+  "Norma De Serviço Conjunta Nº 001/2017<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Norma De Serviço Conjunta Nº 001/2017<SEP>Procedimento Operacional Padrão"
+  },
+  "Núcleo De Audiência De Custódia (NAC/TJDFT)<SEP>Questionário De Avaliação De Risco": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Núcleo De Audiência De Custódia (NAC/TJDFT)<SEP>Questionário De Avaliação De Risco"
+  },
+  "Instituto Médico Legal<SEP>Ofendida": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instituto Médico Legal<SEP>Ofendida"
+  },
+  "Casa Abrigo<SEP>Dependentes Menores": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Casa Abrigo<SEP>Dependentes Menores"
+  },
+  "Delegacia De Polícia<SEP>Delegacia Especial De Atendimento À Mulher": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia De Polícia<SEP>Delegacia Especial De Atendimento À Mulher"
+  },
+  "Albergues<SEP>Conselho Tutelar": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Albergues<SEP>Conselho Tutelar"
+  },
+  "Feminicídio<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Feminicídio<SEP>Procedimento Operacional Padrão"
+  },
+  "Ofendida<SEP>Policial Responsável Pelo Acolhimento": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ofendida<SEP>Policial Responsável Pelo Acolhimento"
+  },
+  "Lei Maria Da Penha<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Lei Maria Da Penha<SEP>Ocorrência Policial"
+  },
+  "Dependentes Menores<SEP>Equipe De Atendimento Multidisciplinar": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Dependentes Menores<SEP>Equipe De Atendimento Multidisciplinar"
+  },
+  "Termo De Declarações<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Termo De Declarações<SEP>Vítima"
+  },
+  "Ocorrência Policial<SEP>Viatura": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>Viatura"
+  },
+  "Testemunha<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Testemunha<SEP>Vítima"
+  },
+  "Histórico<SEP>Termo De Declarações": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Histórico<SEP>Termo De Declarações"
+  },
+  "Código De Processo Penal<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Código De Processo Penal<SEP>Ocorrência Policial"
+  },
+  "Medida Protetiva<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Medida Protetiva<SEP>Vítima"
+  },
+  "Autor<SEP>Núcleo Familiar": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autor<SEP>Núcleo Familiar"
+  },
+  "Delegacia De Polícia<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia De Polícia<SEP>Ocorrência Policial"
+  },
+  "Filhos<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Filhos<SEP>Vítima"
+  },
+  "Judiciário<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Judiciário<SEP>Ocorrência Policial"
+  },
+  "Instituto Médico Legal<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instituto Médico Legal<SEP>Vítima"
+  },
+  "Dados Básicos<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Dados Básicos<SEP>Ocorrência Policial"
+  },
+  "Roupas da Vítima<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Roupas da Vítima<SEP>Vítima"
+  },
+  "Autor<SEP>IPDNA": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autor<SEP>IPDNA"
+  },
+  "Delegacia<SEP>Testemunha": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia<SEP>Testemunha"
+  },
+  "Condições Locais - Criminal<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Condições Locais - Criminal<SEP>Ocorrência Policial"
+  },
+  "Bolsa de Crise<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Bolsa de Crise<SEP>Vítima"
+  },
+  "Instituto de Criminalística<SEP>Roupas da Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instituto de Criminalística<SEP>Roupas da Vítima"
+  },
+  "Ocorrência Policial<SEP>Pessoas Envolvidas": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>Pessoas Envolvidas"
+  },
+  "Aparelho Celular<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Aparelho Celular<SEP>Vítima"
+  },
+  "Ocorrência Policial<SEP>Veículos Envolvidos E Objetos Envolvidos": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>Veículos Envolvidos E Objetos Envolvidos"
+  },
+  "Requerimento de Medidas Protetivas de Urgência<SEP>Sistemas PROCED e SIIC": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Requerimento de Medidas Protetivas de Urgência<SEP>Sistemas PROCED e SIIC"
+  },
+  "Arma de Fogo<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Arma de Fogo<SEP>Vítima"
+  },
+  "Ocorrência Policial<SEP>Sistemas PROCED e SIIC": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>Sistemas PROCED e SIIC"
+  },
+  "Termo de Consentimento<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Termo de Consentimento<SEP>Vítima"
+  },
+  "Instituto Médico Legal<SEP>Menores de 14 Anos": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instituto Médico Legal<SEP>Menores de 14 Anos"
+  },
+  "Memorando de Encaminhamento<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Memorando de Encaminhamento<SEP>Ocorrência Policial"
+  },
+  "Veículo<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Veículo<SEP>Vítima"
+  },
+  "Arma De Fogo<SEP>Autor": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Arma De Fogo<SEP>Autor"
+  },
+  "Retrato Falado<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Retrato Falado<SEP>Vítima"
+  },
+  "Autoridade Policial<SEP>Poder Judiciário": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Poder Judiciário"
+  },
+  "Ocorrência Policial<SEP>Sistema Proced": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>Sistema Proced"
+  },
+  "Prontuário Médico<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007",
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Prontuário Médico<SEP>Vítima"
+  },
+  "Ocorrência Policial<SEP>Sistema Siic": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Ocorrência Policial<SEP>Sistema Siic"
+  },
+  "Arma De Fogo<SEP>Autoridade Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Arma De Fogo<SEP>Autoridade Policial"
+  },
+  "Material Biológico<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Material Biológico<SEP>Vítima"
+  },
+  "Auto De Apresentação E Apreensão<SEP>Instituto De Criminalística": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Auto De Apresentação E Apreensão<SEP>Instituto De Criminalística"
+  },
+  "Instrução Normativa nº 17 de 2017<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Instrução Normativa nº 17 de 2017<SEP>Vítima"
+  },
+  "Memorando De Encaminhamento<SEP>Ocorrência Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Memorando De Encaminhamento<SEP>Ocorrência Policial"
+  },
+  "Casa Abrigo<SEP>Delegacia Especial de Atendimento à Mulher": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Casa Abrigo<SEP>Delegacia Especial de Atendimento à Mulher"
+  },
+  "Local dos Fatos<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Local dos Fatos<SEP>Vítima"
+  },
+  "Delegacia de Polícia<SEP>Instituto Médico Legal": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia de Polícia<SEP>Instituto Médico Legal"
+  },
+  "Delegacia Especial de Atendimento à Mulher<SEP>Delegacia de Polícia": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia Especial de Atendimento à Mulher<SEP>Delegacia de Polícia"
+  },
+  "Medidas Protetivas De Urgência<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Medidas Protetivas De Urgência<SEP>Vítima"
+  },
+  "Autor<SEP>Autoridade Policial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autor<SEP>Autoridade Policial"
+  },
+  "Corregedoria-Geral de Polícia<SEP>Procedimento Operacional Padrão": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Corregedoria-Geral de Polícia<SEP>Procedimento Operacional Padrão"
+  },
+  "Conselho Tutelar<SEP>Delegacia de Polícia": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Conselho Tutelar<SEP>Delegacia de Polícia"
+  },
+  "Exame De Corpo De Delito<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Exame De Corpo De Delito<SEP>Vítima"
+  },
+  "Governo do Distrito Federal<SEP>Polícia Civil do Distrito Federal": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Governo do Distrito Federal<SEP>Polícia Civil do Distrito Federal"
+  },
+  "Delegacia de Polícia<SEP>Poder Judiciário": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia de Polícia<SEP>Poder Judiciário"
+  },
+  "Autoridade Policial<SEP>Lei 12.845/2013": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Autoridade Policial<SEP>Lei 12.845/2013"
+  },
+  "Queixa-Crime<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Queixa-Crime<SEP>Vítima"
+  },
+  "Exame De Corpo De Delito<SEP>Laudo Pericial": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Exame De Corpo De Delito<SEP>Laudo Pericial"
+  },
+  "Corregedoria-Geral de Polícia<SEP>Norma de Serviço 04/2018": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Corregedoria-Geral de Polícia<SEP>Norma de Serviço 04/2018"
+  },
+  "Delegacia de Polícia<SEP>Ministério Público": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia de Polícia<SEP>Ministério Público"
+  },
+  "Exame de Corpo de Delito<SEP>Vítima": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Exame de Corpo de Delito<SEP>Vítima"
+  },
+  "Albergues Específicos<SEP>Delegacia de Polícia": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Albergues Específicos<SEP>Delegacia de Polícia"
+  },
+  "Delegacia de Polícia<SEP>Testemunhas": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia de Polícia<SEP>Testemunhas"
+  },
+  "Delegacia de Polícia<SEP>Instrução Normativa 95/2003": {
+    "chunk_ids": [
+      "doc-e3e457a1e257bc46748013ef89b39a36-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "Delegacia de Polícia<SEP>Instrução Normativa 95/2003"
+  }
+}

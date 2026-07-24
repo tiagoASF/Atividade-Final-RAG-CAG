@@ -1,0 +1,2923 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Vítima">
+  <data key="d0">Vítima</data>
+  <data key="d1">person</data>
+  <data key="d2">A pessoa que sofreu a violência e deve ser orientada a fornecer detalhes sobre o fato, sendo ouvida prioritariamente no atendimento.&lt;SEP&gt;A pessoa que sofreu a ação criminosa, responsável por fornecer declarações, autorizar intimações e informar sobre lesões ou posse de armas do autor.&lt;SEP&gt;A pessoa que sofreu a infração penal ou violência, responsável por fornecer provas, autorizações e assinar termos.&lt;SEP&gt;The female individual who has suffered violence or crimes against sexual dignity.&lt;SEP&gt;A pessoa que sofreu a violência sexual e fornece o relato dos fatos, descreve o autor e autoriza procedimentos.&lt;SEP&gt;Mulher que sofreu violência doméstica, familiar ou crimes contra a dignidade sexual, a quem devem ser garantidos direitos constitucionais e acolhimento sem revitimização.&lt;SEP&gt;Pessoa que sofreu violência e é o foco central do protocolo de acolhimento e atendimento.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-009&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Autoridade Policial">
+  <data key="d0">Autoridade Policial</data>
+  <data key="d1">person</data>
+  <data key="d2">O oficial competente responsável por tomar conhecimento do relato da vítima e determinar as providências cabíveis.&lt;SEP&gt;The police authority (Delegate) responsible for making legal decisions and overseeing the registration of facts.&lt;SEP&gt;O delegado ou responsável pela condução da ocorrência e decisão sobre diligências e representações judiciais.&lt;SEP&gt;O delegado ou responsável na unidade policial encarregado de avaliar diligências, apreensões e perícias.&lt;SEP&gt;The police authority or chief officer responsible for making legal representations, such as preventive detention or search and seizure warrants.&lt;SEP&gt;Responsável por conduzir a oitiva e determinar informações pertinentes ao caso concreto.&lt;SEP&gt;Responsável por conduzir diligências, deslocar-se ao local do fato, requisitar imagens e avaliar o acionamento de seções de investigação.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-000&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="IPDNA">
+  <data key="d0">IPDNA</data>
+  <data key="d1">organization</data>
+  <data key="d2">Instituto para onde o autor é encaminhado para fornecimento de material biológico.&lt;SEP&gt;Instituto de Pesquisa de DNA Forense, para onde a vítima ou envolvidos são encaminhados para fornecimento de material biológico.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Hospital">
+  <data key="d0">Hospital</data>
+  <data key="d1">location</data>
+  <data key="d2">Local onde a vítima hospitalizada recebe atendimento inicial e pode ser entrevistada.&lt;SEP&gt;Estabelecimento de saúde onde a vítima hospitalizada deve ser entrevistada e de onde se obtêm informações sobre o atendimento inicial.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Delegacia de Polícia">
+  <data key="d0">Delegacia de Polícia</data>
+  <data key="d1">location</data>
+  <data key="d2">General police stations responsible for initial reports, preliminary investigations, and executing specific diligences in cases of violence.&lt;SEP&gt;Unidade policial onde ocorre o registro da ocorrência, a redução a termo de declarações e o fornecimento do número da ocorrência à vítima.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instituto de Medicina Legal">
+  <data key="d0">Instituto de Medicina Legal</data>
+  <data key="d1">organization</data>
+  <data key="d2">Órgão responsável pela realização de exames de corpo de delito, exames toxicológicos e constatação de atos libidinosos ou lesões.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instituto de Identificação">
+  <data key="d0">Instituto de Identificação</data>
+  <data key="d1">organization</data>
+  <data key="d2">Órgão responsável pela confecção de retrato falado quando necessário.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Departamento de Polícia Técnica">
+  <data key="d0">Departamento de Polícia Técnica</data>
+  <data key="d1">organization</data>
+  <data key="d2">Unidade da PCDF responsável pelo acolhimento e procedimentos periciais sob a perspectiva de gênero.&lt;SEP&gt;Unidade policial responsável pelas perícias e exames técnicos necessários à instrução criminal.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="PAV">
+  <data key="d0">PAV</data>
+  <data key="d1">organization</data>
+  <data key="d2">Programa de Pesquisa, Assistência e Vigilância em Violência da Secretaria de Saúde, responsável pela Profilaxia Pós-Exposição (PEP).</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Sistema Millenium">
+  <data key="d0">Sistema Millenium</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Sistema informatizado utilizado para consulta de dados e acesso a termos de consentimento e prontuários.&lt;SEP&gt;Plataforma digital utilizada pela polícia para acessar prontuários médicos e gerar relatórios e termos de medidas protetivas.&lt;SEP&gt;Sistema digital onde se encontra disponível o prontuário médico da vítima.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei 11.340/2006">
+  <data key="d0">Lei 11.340/2006</data>
+  <data key="d1">content</data>
+  <data key="d2">Known as the Maria da Penha Law, it establishes the legal framework for preventing and punishing domestic and family violence against women.&lt;SEP&gt;Also known as the Maria da Penha Law, it defines crimes of domestic and family violence against women.&lt;SEP&gt;Legislação conhecida como Lei Maria da Penha, que define as circunstâncias de violência doméstica e familiar.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-000&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="PCDF">
+  <data key="d0">PCDF</data>
+  <data key="d1">organization</data>
+  <data key="d2">Polícia Civil do Distrito Federal, implícita como a instituição que realiza o registro e a investigação dos fatos.&lt;SEP&gt;Polícia Civil do Distrito Federal, instituição emissora do Procedimento Operacional Padrão.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Corregedoria-Geral de Polícia">
+  <data key="d0">Corregedoria-Geral de Polícia</data>
+  <data key="d1">organization</data>
+  <data key="d2">The internal affairs department of the police force that issues service norms and operational procedures.&lt;SEP&gt;Órgão responsável pela fiscalização e orientação das atividades policiais.&lt;SEP&gt;Área emitente do protocolo de acolhimento às vítimas.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-009&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Exame de Corpo de Delito">
+  <data key="d0">Exame de Corpo de Delito</data>
+  <data key="d1">method</data>
+  <data key="d2">A forensic physical examination performed to document evidence of violence.&lt;SEP&gt;Procedimento pericial realizado para constatar vestígios de violência física ou sexual.&lt;SEP&gt;Procedimento pericial para constatação de vestígios físicos de violência, como lesões ou conjunção carnal.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="PEP">
+  <data key="d0">PEP</data>
+  <data key="d1">method</data>
+  <data key="d2">Profilaxia Pós-Exposição ao HIV, tratamento de urgência médica com duração de 28 dias.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Secretaria de Estado de Saúde">
+  <data key="d0">Secretaria de Estado de Saúde</data>
+  <data key="d1">organization</data>
+  <data key="d2">Government body responsible for the PAV program and public health services in the Distrito Federal.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Testemunhas">
+  <data key="d0">Testemunhas</data>
+  <data key="d1">person</data>
+  <data key="d2">Individuals who witnessed the facts and are heard during the police procedure.&lt;SEP&gt;Individuals who witness the facts and whose statements must be recorded in detail at the police station.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Profissionais de Saúde">
+  <data key="d0">Profissionais de Saúde</data>
+  <data key="d1">person</data>
+  <data key="d2">Health professionals, especially from social assistance, who provide first aid and collect information on the dynamics of the facts.&lt;SEP&gt;Staff at the hospital, including social workers, who provide the first care and collect information about the dynamics of the facts.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Veículo da Vítima">
+  <data key="d0">Veículo da Vítima</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The victim's car, which must be seized for forensic examination if the sexual violence occurred inside it.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Código de Processo Penal">
+  <data key="d0">Código de Processo Penal</data>
+  <data key="d1">content</data>
+  <data key="d2">Conjunto de normas que disciplinam o processo penal brasileiro, mencionado especificamente quanto ao artigo 158.&lt;SEP&gt;Legal code whose article 158 was amended by Law 13.721 to establish priority for certain forensic examinations.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Código Penal">
+  <data key="d0">Código Penal</data>
+  <data key="d1">content</data>
+  <data key="d2">The Brazilian Penal Code, specifically cited regarding the crime of Feminicide.&lt;SEP&gt;Decreto-Lei que consolida as normas de direito penal, citado em relação ao crime de feminicídio.&lt;SEP&gt;Legal code that typifies the crime of Feminicide in its article 121.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-009&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei 12.845/2013">
+  <data key="d0">Lei 12.845/2013</data>
+  <data key="d1">concept</data>
+  <data key="d2">Legislation regarding the mandatory and integral care of persons in situations of sexual violence.&lt;SEP&gt;Legislation that must be observed during the care and procedures for victims of sexual violence.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei 10.048/2000">
+  <data key="d0">Lei 10.048/2000</data>
+  <data key="d1">content</data>
+  <data key="d2">Brazilian law that establishes priority of service for specific groups of people.&lt;SEP&gt;Legislation establishing priority of service for specific groups.&lt;SEP&gt;Legislation that provides for priority of service for specific groups.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-000&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei 13.721/2018">
+  <data key="d0">Lei 13.721/2018</data>
+  <data key="d1">concept</data>
+  <data key="d2">Law that amended the Code of Criminal Procedure to establish priority for forensic examinations in cases of violence against women.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Decreto nº 37.982/2017">
+  <data key="d0">Decreto nº 37.982/2017</data>
+  <data key="d1">concept</data>
+  <data key="d2">District Federal decree that regulates the recognition and use of social names.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Agressor">
+  <data key="d0">Agressor</data>
+  <data key="d1">person</data>
+  <data key="d2">O indivíduo acusado de praticar o crime contra a vítima, sujeito a medidas protetivas e restrições legais.&lt;SEP&gt;The individual accused of committing violence, subject to restrictive measures such as prohibition of contact and exclusion from certain locations.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Testemunha">
+  <data key="d0">Testemunha</data>
+  <data key="d1">person</data>
+  <data key="d2">Pessoa que presenciou os fatos e deve ser ouvida separadamente durante o procedimento policial.&lt;SEP&gt;Pessoa que presenciou os fatos e deve ser enumerada e ouvida formalmente na delegacia.&lt;SEP&gt;Pessoa que presenciou os fatos ou possui informações relevantes, cujas declarações devem ser reduzidas a termo.&lt;SEP&gt;Pessoa que presenciou os fatos e deve ser ouvida formalmente na Delegacia.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Delegacia De Polícia">
+  <data key="d0">Delegacia De Polícia</data>
+  <data key="d1">location</data>
+  <data key="d2">Local onde ocorre o registro da ocorrência, a entrega de provas e o atendimento às partes envolvidas.&lt;SEP&gt;The police station where previous occurrences were registered and where the current case is being processed.&lt;SEP&gt;General police stations responsible for registering occurrences, conducting preliminary diligences, and coordinating with the specialized unit.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-004&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instituto De Criminalística">
+  <data key="d0">Instituto De Criminalística</data>
+  <data key="d1">organization</data>
+  <data key="d2">Órgão para o qual são encaminhados bens apreendidos para perícia técnica.&lt;SEP&gt;Órgão responsável pela realização de exames periciais e extração de dados de dispositivos eletrônicos.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Medidas Protetivas De Urgência">
+  <data key="d0">Medidas Protetivas De Urgência</data>
+  <data key="d1">concept</data>
+  <data key="d2">Urgent protective measures requested by victims to ensure their safety from aggressors.&lt;SEP&gt;Providências legais solicitadas pela vítima para sua proteção imediata contra o autor.&lt;SEP&gt;Dispositivos legais solicitados pela vítima para garantir sua segurança, como proibição de contato e afastamento do lar.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-000&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Termo De Consentimento">
+  <data key="d0">Termo De Consentimento</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento assinado pela vítima autorizando o acesso ao seu prontuário médico para exames indiretos.&lt;SEP&gt;Documento assinado pela vítima autorizando o acesso ao seu prontuário médico ou o uso de fotografias de lesões como prova.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Ocorrência Policial">
+  <data key="d0">Ocorrência Policial</data>
+  <data key="d1">content</data>
+  <data key="d2">O registro formal dos fatos narrados, contendo natureza, dados básicos, histórico e informações das partes envolvidas.&lt;SEP&gt;O registro formal dos fatos criminosos, contendo histórico, dados básicos, anexos e informações sobre os envolvidos.&lt;SEP&gt;Registro oficial dos fatos criminosos, contendo o histórico das diligências, provas anexadas e depoimentos.&lt;SEP&gt;Documento oficial de registro dos fatos, ao qual devem ser anexadas pesquisas e documentos.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Termo De Requerimento De Medidas Protetivas">
+  <data key="d0">Termo De Requerimento De Medidas Protetivas</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento formal onde a vítima solicita proteção judicial contra o agressor.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Delegacia Especializada De Atendimento À Mulher">
+  <data key="d0">Delegacia Especializada De Atendimento À Mulher</data>
+  <data key="d1">location</data>
+  <data key="d2">Unidade policial específica para o atendimento de mulheres vítimas de violência.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Casa Abrigo">
+  <data key="d0">Casa Abrigo</data>
+  <data key="d1">location</data>
+  <data key="d2">Local de acolhimento e proteção para vítimas em situação de risco.&lt;SEP&gt;Local seguro para onde a vítima pode ser encaminhada em situações de risco extremo.&lt;SEP&gt;A confidential shelter for women at high risk of life-threatening violence and their children.&lt;SEP&gt;A shelter facility designed to receive and protect female victims of violence.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-004&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Magistrado">
+  <data key="d0">Magistrado</data>
+  <data key="d1">person</data>
+  <data key="d2">Autoridade judicial responsável por avaliar e conceder as Medidas Protetivas de Urgência.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei N. 10.826/2003">
+  <data key="d0">Lei N. 10.826/2003</data>
+  <data key="d1">content</data>
+  <data key="d2">Legislação que dispõe sobre registro, posse e comercialização de armas de fogo e munição.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Corregedoria-Geral De Polícia">
+  <data key="d0">Corregedoria-Geral De Polícia</data>
+  <data key="d1">organization</data>
+  <data key="d2">The internal affairs and oversight body of the police force, responsible for issuing service norms and operational protocols.&lt;SEP&gt;Órgão de controle interno da polícia, emissor da Circular nº 06 de 2018.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Auto De Apreensão">
+  <data key="d0">Auto De Apreensão</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento que formaliza a retenção de objetos, mídias ou veículos relevantes para a investigação.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Prontuário Médico">
+  <data key="d0">Prontuário Médico</data>
+  <data key="d1">content</data>
+  <data key="d2">Conjunto de documentos relativos ao histórico de saúde da vítima, acessível mediante consentimento.&lt;SEP&gt;Documento hospitalar da vítima cujo acesso requer um Termo de Consentimento assinado para fins de prova.&lt;SEP&gt;Medical record of the victim located in the Millenium system, accessible via a signed consent form.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="WhatsApp">
+  <data key="d0">WhatsApp</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Aplicativo de mensagens utilizado para comunicação de atos processuais ou como meio para a prática de crimes contra a honra.&lt;SEP&gt;A messaging application used to commit crimes against honor or revenge pornography through messages.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Circular Nº 06/2018">
+  <data key="d0">Circular Nº 06/2018</data>
+  <data key="d1">content</data>
+  <data key="d2">A circular from the Corregedoria-Geral providing instructions on requesting urgent protective measures.&lt;SEP&gt;A regulation from the Corregedoria-Geral de Polícia that defines how documents must be joined to the protection order request.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Mídia">
+  <data key="d0">Mídia</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Digital storage media (excluding pen drives) provided by the victim to the police containing data for analysis.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Cártulas De Cheques">
+  <data key="d0">Cártulas De Cheques</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Physical check documents that, if involved in an infraction, require microfilming for seizure.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Veículo">
+  <data key="d0">Veículo</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A vehicle involved in situations of sexual violence, damage, or sabotage that may require forensic examination.&lt;SEP&gt;Meio de transporte utilizado pelo autor para abordagem ou fuga.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Sistema De Monitoramento">
+  <data key="d0">Sistema De Monitoramento</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Surveillance systems at the scene of the facts whose images must be immediately requested by the police.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Filho Menor">
+  <data key="d0">Filho Menor</data>
+  <data key="d1">person</data>
+  <data key="d2">Minor children of the victim and the aggressor whose names, ages, and custody details must be specified in protection requests.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Victim">
+  <data key="d0">Victim</data>
+  <data key="d1">person</data>
+  <data key="d2">The individual who suffered the criminal action and provides the narrative of the facts to the police.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Author">
+  <data key="d0">Author</data>
+  <data key="d1">person</data>
+  <data key="d2">The individual alleged to have committed the crime, also referred to as the perpetrator or algoz.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Police Officer">
+  <data key="d0">Police Officer</data>
+  <data key="d1">person</data>
+  <data key="d2">The official responsible for attending to the victim, waiting for their emotional stability, and recording the occurrence.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Police Authority">
+  <data key="d0">Police Authority</data>
+  <data key="d1">person</data>
+  <data key="d2">The high-level official who oversees the case, prioritizes medical care, and determines if additional inquiries are needed.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Witness">
+  <data key="d0">Witness</data>
+  <data key="d1">person</data>
+  <data key="d2">Individuals who may have seen the event or have information regarding the contact between the victim and the author.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Police Report">
+  <data key="d0">Police Report</data>
+  <data key="d1">content</data>
+  <data key="d2">The official registration of the occurrence, containing fields like Basic Data, History, and Modus Operandi.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Health Network">
+  <data key="d0">Health Network</data>
+  <data key="d1">organization</data>
+  <data key="d2">The medical infrastructure where the victim receives specific procedures and immediate medical care.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Rape">
+  <data key="d0">Rape</data>
+  <data key="d1">concept</data>
+  <data key="d2">A specific nature of police occurrence that must be classified as confidential/reserved.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="History Field">
+  <data key="d0">History Field</data>
+  <data key="d1">data</data>
+  <data key="d2">A section of the police report that details the narrative of the facts, the approach, and the dynamics of the event.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Modus Operandi">
+  <data key="d0">Modus Operandi</data>
+  <data key="d1">concept</data>
+  <data key="d2">The specific method or pattern of conduct adopted by the criminal during the offense.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Facial Composite">
+  <data key="d0">Facial Composite</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A visual representation of the author created based on the victim's descriptions to aid identification.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Basic Data Field">
+  <data key="d0">Basic Data Field</data>
+  <data key="d1">data</data>
+  <data key="d2">A section of the police report used to delimit the date of the fact, the nature of the occurrence, and the address of the event.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Local Conditions - Criminal Field">
+  <data key="d0">Local Conditions - Criminal Field</data>
+  <data key="d1">data</data>
+  <data key="d2">A section of the police report used to register involved vehicles, types of locations, objects, and means employed in the crime.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Involved Persons Field">
+  <data key="d0">Involved Persons Field</data>
+  <data key="d1">data</data>
+  <data key="d2">A section of the police report dedicated to recording contact information, addresses, and workplace details of all parties.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Physical Characteristics Field">
+  <data key="d0">Physical Characteristics Field</data>
+  <data key="d1">data</data>
+  <data key="d2">A section of the police report used to detail the physical appearance of the parties involved to aid investigation.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Vehicles, Objects and Modus Operandi Field">
+  <data key="d0">Vehicles, Objects and Modus Operandi Field</data>
+  <data key="d1">data</data>
+  <data key="d2">A section of the police report for listing all vehicles and objects involved and detailing the criminal's conduct.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Police Vehicle">
+  <data key="d0">Police Vehicle</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Vehicles from any institution involved in the occurrence that must be registered in the report.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Weapon">
+  <data key="d0">Weapon</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Instruments such as firearms, knives, or other tools used by the author to subjugate the victim.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei nº 12.845/2013">
+  <data key="d0">Lei nº 12.845/2013</data>
+  <data key="d1">content</data>
+  <data key="d2">Legislação brasileira que dispõe sobre o atendimento obrigatório e integral de pessoas em situação de violência sexual.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei nº 10.048/2000">
+  <data key="d0">Lei nº 10.048/2000</data>
+  <data key="d1">content</data>
+  <data key="d2">Lei que dá prioridade de atendimento às pessoas que especifica e dá outras providências.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei nº 13.721/2018">
+  <data key="d0">Lei nº 13.721/2018</data>
+  <data key="d1">content</data>
+  <data key="d2">Lei que estabelece prioridade à realização do exame de corpo de delito quando se tratar de crime que envolva violência doméstica e familiar contra mulher ou violência contra criança, adolescente, idoso ou pessoa com deficiência.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei nº 11.340/2006">
+  <data key="d0">Lei nº 11.340/2006</data>
+  <data key="d1">content</data>
+  <data key="d2">Conhecida como Lei Maria da Penha, cria mecanismos para coibir a violência doméstica e familiar contra a mulher.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Conselho Federal de Medicina">
+  <data key="d0">Conselho Federal de Medicina</data>
+  <data key="d1">organization</data>
+  <data key="d2">Órgão que possui a atribuição constitucional de fiscalizar e normatizar a prática médica no Brasil.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Policial">
+  <data key="d0">Policial</data>
+  <data key="d1">person</data>
+  <data key="d2">O agente responsável pelo atendimento inicial, que deve tranquilizar a vítima e aguardar seu relato fidedigno.&lt;SEP&gt;Agente público responsável por realizar o atendimento, escuta e procedimentos iniciais com a vítima.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Bolsa de Crise">
+  <data key="d0">Bolsa de Crise</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Kit de assistência oferecido prioritariamente à vítima, especialmente se suas roupas forem apreendidas.&lt;SEP&gt;Kit de itens oferecido à vítima, especialmente quando suas vestes são apreendidas para perícia ou estão danificadas.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Nome Social">
+  <data key="d0">Nome Social</data>
+  <data key="d1">concept</data>
+  <data key="d2">Designação pela qual a pessoa travesti ou transexual se identifica e é reconhecida na sociedade, a ser respeitada no atendimento.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Rede de Saúde">
+  <data key="d0">Rede de Saúde</data>
+  <data key="d1">organization</data>
+  <data key="d2">Conjunto de serviços de saúde para onde a vítima pode ser encaminhada conforme a necessidade do caso concreto.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Distrito Federal">
+  <data key="d0">Distrito Federal</data>
+  <data key="d1">location</data>
+  <data key="d2">The Brazilian Federal District, the jurisdiction where the protocol and laws are being applied.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma de Serviço nº 04/2017">
+  <data key="d0">Norma de Serviço nº 04/2017</data>
+  <data key="d1">content</data>
+  <data key="d2">A service regulation issued on March 8, 2017, by the Corregedoria-Geral de Polícia.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Autor">
+  <data key="d0">Autor</data>
+  <data key="d1">person</data>
+  <data key="d2">O indivíduo que praticou a ação delituosa, cuja personalidade, histórico e relação com a vítima devem ser detalhados.&lt;SEP&gt;O indivíduo a quem se atribui a prática do fato criminoso, cujas características de personalidade, vícios e paradeiro devem ser detalhados.&lt;SEP&gt;The individual alleged to have committed the crime or act of violence.&lt;SEP&gt;O indivíduo suspeito de cometer o crime, que pode ser reconhecido pela vítima e ter seu paradeiro ou veículo investigados.&lt;SEP&gt;The perpetrator of the crime, with whom the victim must not have direct contact.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Médicos">
+  <data key="d0">Médicos</data>
+  <data key="d1">person</data>
+  <data key="d2">Medical professionals who must observe the resolutions of the Federal Council of Medicine.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Laudos">
+  <data key="d0">Laudos</data>
+  <data key="d1">data</data>
+  <data key="d2">Official reports or findings for which the victim must be informed of deadlines and completion forecasts.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Exame Pericial">
+  <data key="d0">Exame Pericial</data>
+  <data key="d1">method</data>
+  <data key="d2">Forensic examination for which the victim's clothing may be seized.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Governo Do Distrito Federal">
+  <data key="d0">Governo Do Distrito Federal</data>
+  <data key="d1">organization</data>
+  <data key="d2">The regional government of the Federal District in Brazil, responsible for public administration and safety.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Polícia Civil Do Distrito Federal">
+  <data key="d0">Polícia Civil Do Distrito Federal</data>
+  <data key="d1">organization</data>
+  <data key="d2">The civil police force of the Federal District, responsible for judicial police functions and criminal investigations.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Procedimento Operacional Padrão">
+  <data key="d0">Procedimento Operacional Padrão</data>
+  <data key="d1">method</data>
+  <data key="d2">A standardized operational procedure (SOP) established to guide police actions in welcoming women victims of domestic violence.&lt;SEP&gt;A standardized operational procedure (POP) for the reception of female victims of sexual dignity crimes under a gender perspective.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Delegacias De Polícia">
+  <data key="d0">Delegacias De Polícia</data>
+  <data key="d1">location</data>
+  <data key="d2">Police stations where the reception, reporting, and investigation of crimes occur.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Mulheres Vítimas De Violência Doméstica E Familiar">
+  <data key="d0">Mulheres Vítimas De Violência Doméstica E Familiar</data>
+  <data key="d1">person</data>
+  <data key="d2">The target group of the protocol, including cisgender and transgender women who have suffered domestic or family violence.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Questionário De Avalição De Risco">
+  <data key="d0">Questionário De Avalição De Risco</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A mandatory risk assessment questionnaire available on the PCDF intranet to evaluate the danger level for the victim.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei 13.431/2017">
+  <data key="d0">Lei 13.431/2017</data>
+  <data key="d1">content</data>
+  <data key="d2">Legislation regarding the special testimony of children and adolescents who are victims or witnesses of violence.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instrução Normativa 121/2006">
+  <data key="d0">Instrução Normativa 121/2006</data>
+  <data key="d1">content</data>
+  <data key="d2">A normative instruction that must be observed during the application of the operational protocol.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma De Serviço Nº 04/2018">
+  <data key="d0">Norma De Serviço Nº 04/2018</data>
+  <data key="d1">content</data>
+  <data key="d2">A service norm from the Corregedoria-Geral regulating special testimony for children and adolescents.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Policial Feminina">
+  <data key="d0">Policial Feminina</data>
+  <data key="d1">person</data>
+  <data key="d2">Female police officers who, whenever possible, should be the ones to attend to the victims.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma De Serviço Nº 04/2017">
+  <data key="d0">Norma De Serviço Nº 04/2017</data>
+  <data key="d1">content</data>
+  <data key="d2">A service norm from the Corregedoria-Geral regarding protocols for Feminicide investigations.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma De Serviço Nº 06/2006">
+  <data key="d0">Norma De Serviço Nº 06/2006</data>
+  <data key="d1">content</data>
+  <data key="d2">A service norm from the Corregedoria-Geral that must be observed in the application of the protocol.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma De Serviço Nº 002/2014">
+  <data key="d0">Norma De Serviço Nº 002/2014</data>
+  <data key="d1">content</data>
+  <data key="d2">A service norm from the Corregedoria-Geral related to internal police procedures.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma De Serviço Nº 07/2016">
+  <data key="d0">Norma De Serviço Nº 07/2016</data>
+  <data key="d1">content</data>
+  <data key="d2">A service norm from the Corregedoria-Geral to be observed during the protocol's application.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma De Serviço Nº 09/2012">
+  <data key="d0">Norma De Serviço Nº 09/2012</data>
+  <data key="d1">content</data>
+  <data key="d2">A service norm mandating new police reports for new facts of domestic violence regardless of existing judicial processes.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instrução Normativa Nº 95/2003">
+  <data key="d0">Instrução Normativa Nº 95/2003</data>
+  <data key="d1">content</data>
+  <data key="d2">A normative instruction used for the classification of police occurrences.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma De Serviço Conjunta Nº 001/2017">
+  <data key="d0">Norma De Serviço Conjunta Nº 001/2017</data>
+  <data key="d1">content</data>
+  <data key="d2">A joint service norm regulating registry routines and the operation of Central Flagrante units.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Centrais De Flagrantes">
+  <data key="d0">Centrais De Flagrantes</data>
+  <data key="d1">organization</data>
+  <data key="d2">Specific police units focused on processing arrests in flagrante delicto.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Feminicídio">
+  <data key="d0">Feminicídio</data>
+  <data key="d1">concept</data>
+  <data key="d2">The murder of a woman motivated by domestic violence or contempt/discrimination against the female condition, as defined in the Penal Code.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Ofendida">
+  <data key="d0">Ofendida</data>
+  <data key="d1">person</data>
+  <data key="d2">The female victim of domestic violence who seeks protection, emergency measures, and potential sheltering.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Dependentes Menores">
+  <data key="d0">Dependentes Menores</data>
+  <data key="d1">person</data>
+  <data key="d2">The minor children of the victim who may be subject to visitation restrictions or accompany the mother to a shelter.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Autoridade Judiciária">
+  <data key="d0">Autoridade Judiciária</data>
+  <data key="d1">organization</data>
+  <data key="d2">The judicial authority responsible for granting urgent protective measures and food provisions.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Polícia Civil">
+  <data key="d0">Polícia Civil</data>
+  <data key="d1">organization</data>
+  <data key="d2">The civil police force responsible for registering occurrences and providing the Risk Assessment Questionnaire.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Questionário De Avaliação De Risco">
+  <data key="d0">Questionário De Avaliação De Risco</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A mandatory risk assessment tool used in the justice system for cases involving the Maria da Penha Law.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Lei Maria Da Penha">
+  <data key="d0">Lei Maria Da Penha</data>
+  <data key="d1">concept</data>
+  <data key="d2">Legislação específica que rege os procedimentos de atendimento e a classificação principal da ocorrência policial em casos de violência doméstica.&lt;SEP&gt;The Brazilian legal framework (Law 11.340) aimed at preventing and punishing domestic and family violence against women.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Requerimento Por Medidas Protetivas De Urgência">
+  <data key="d0">Requerimento Por Medidas Protetivas De Urgência</data>
+  <data key="d1">content</data>
+  <data key="d2">A formal request for urgent protective measures to be sent to the Judiciary.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Poder Judiciário">
+  <data key="d0">Poder Judiciário</data>
+  <data key="d1">organization</data>
+  <data key="d2">A instância jurídica responsável por decidir sobre medidas protetivas, busca e apreensão, e processar ações penais.&lt;SEP&gt;The judicial branch responsible for requesting future diligences in criminal proceedings.&lt;SEP&gt;The judicial branch that receives protective measure requests and risk assessments.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Sistema PROCED.NET">
+  <data key="d0">Sistema PROCED.NET</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The digital system used to forward judicial documents and police procedures.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Núcleo De Audiência De Custódia (NAC/TJDFT)">
+  <data key="d0">Núcleo De Audiência De Custódia (NAC/TJDFT)</data>
+  <data key="d1">organization</data>
+  <data key="d2">The custody hearing center that receives communications regarding flagrant arrests in domestic violence cases.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Conselho Tutelar">
+  <data key="d0">Conselho Tutelar</data>
+  <data key="d1">organization</data>
+  <data key="d2">The guardianship council notified when children of victims need to be referred to family members or specific shelters.&lt;SEP&gt;The guardianship council responsible for the welfare of male children who cannot be admitted to the Casa Abrigo.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Delegacia Especial De Atendimento À Mulher">
+  <data key="d0">Delegacia Especial De Atendimento À Mulher</data>
+  <data key="d1">organization</data>
+  <data key="d2">The specialized police station exclusively responsible for referring victims to the Casa Abrigo.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instituto Médico Legal">
+  <data key="d0">Instituto Médico Legal</data>
+  <data key="d1">organization</data>
+  <data key="d2">Órgão responsável pela realização de exames de corpo de delito e perícias médicas.&lt;SEP&gt;The medical-legal institute responsible for performing physical examinations (Exame de Corpo de Delito) on victims.&lt;SEP&gt;The medical-legal institute where victims are taken for physical examinations (Exame de Corpo de Delito).&lt;SEP&gt;Órgão para onde a vítima é encaminhada para a realização do Exame de Corpo de Delito.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Exame De Corpo De Delito">
+  <data key="d0">Exame De Corpo De Delito</data>
+  <data key="d1">method</data>
+  <data key="d2">Procedimento pericial realizado para constatar lesões físicas na vítima.&lt;SEP&gt;A forensic physical examination conducted on the victim to document injuries from violence.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Equipe De Atendimento Multidisciplinar">
+  <data key="d0">Equipe De Atendimento Multidisciplinar</data>
+  <data key="d1">organization</data>
+  <data key="d2">A specialized service or team consulted to provide input on the restriction or suspension of visits to minor dependents.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Albergues">
+  <data key="d0">Albergues</data>
+  <data key="d1">location</data>
+  <data key="d2">Specific shelters or hostels used for housing male children who cannot be admitted to the Casa Abrigo, or as a general housing alternative.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Histórico">
+  <data key="d0">Histórico</data>
+  <data key="d1">content</data>
+  <data key="d2">Campo do registro policial que detalha a narrativa dos fatos, o relacionamento entre as partes e o histórico de violência.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Termo De Declarações">
+  <data key="d0">Termo De Declarações</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento oficial que contém o depoimento da vítima, devendo ser produzido simultaneamente ao histórico da ocorrência.&lt;SEP&gt;Documento que registra o depoimento formal da vítima perante a autoridade.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Código De Processo Penal">
+  <data key="d0">Código De Processo Penal</data>
+  <data key="d1">concept</data>
+  <data key="d2">Conjunto de normas que disciplina a definição do local do fato em casos de conexão material ou formal de crimes.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Medida Protetiva">
+  <data key="d0">Medida Protetiva</data>
+  <data key="d1">concept</data>
+  <data key="d2">Decisão judicial de urgência que visa garantir a segurança da vítima, cujo status deve ser verificado no registro.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Viatura">
+  <data key="d0">Viatura</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Veículo oficial utilizado no atendimento da ocorrência que deve ser devidamente cadastrado no sistema.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Judiciário">
+  <data key="d0">Judiciário</data>
+  <data key="d1">organization</data>
+  <data key="d2">The judicial branch responsible for processing cases, issuing decisions, and granting protective measures.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Filhos">
+  <data key="d0">Filhos</data>
+  <data key="d1">person</data>
+  <data key="d2">Os filhos das partes envolvidas, cujos documentos pessoais devem ser fotocopiados e anexados se forem relevantes para o caso.&lt;SEP&gt;The children of the victim and/or author, whose names, ages, and custody status must be recorded.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Núcleo Familiar">
+  <data key="d0">Núcleo Familiar</data>
+  <data key="d1">concept</data>
+  <data key="d2">The family structure where the author is inserted relative to the victim (e.g., father, brother, uncle).</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Dados Básicos">
+  <data key="d0">Dados Básicos</data>
+  <data key="d1">content</data>
+  <data key="d2">A specific field in the police report containing the date of the fact and involved vehicles.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Condições Locais - Criminal">
+  <data key="d0">Condições Locais - Criminal</data>
+  <data key="d1">content</data>
+  <data key="d2">A specific field in the police report used to describe the type of location and objects used in the crime.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Pessoas Envolvidas">
+  <data key="d0">Pessoas Envolvidas</data>
+  <data key="d1">content</data>
+  <data key="d2">A specific field in the police report for recording contact information and workplace details of all parties.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Veículos Envolvidos E Objetos Envolvidos">
+  <data key="d0">Veículos Envolvidos E Objetos Envolvidos</data>
+  <data key="d1">content</data>
+  <data key="d2">A specific field in the police report for listing all vehicles and physical objects related to the incident.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instituto de Criminalística">
+  <data key="d0">Instituto de Criminalística</data>
+  <data key="d1">organization</data>
+  <data key="d2">Instituição responsável pela análise de material biológico em vestes e objetos apreendidos.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Delegacia">
+  <data key="d0">Delegacia</data>
+  <data key="d1">location</data>
+  <data key="d2">Local onde ocorre a oitiva formal das testemunhas e o registro da ocorrência.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Aparelho Celular">
+  <data key="d0">Aparelho Celular</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Objeto da vítima que pode ser subtraído, identificado pelo IMEI e número.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Arma de Fogo">
+  <data key="d0">Arma de Fogo</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Objeto sob posse do autor que deve ser detalhadamente descrito pela vítima.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Roupas da Vítima">
+  <data key="d0">Roupas da Vítima</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Vestimentas usadas no momento da violência, que podem ser apreendidas para perícia.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Sistemas PROCED e SIIC">
+  <data key="d0">Sistemas PROCED e SIIC</data>
+  <data key="d1">data</data>
+  <data key="d2">Sistemas de consulta policial utilizados para pesquisar o histórico dos envolvidos.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Sistema MILLENIUM">
+  <data key="d0">Sistema MILLENIUM</data>
+  <data key="d1">data</data>
+  <data key="d2">Sistema de consulta que contém informações e termos de consentimento de prontuário médico.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Auto de Apresentação e Apreensão">
+  <data key="d0">Auto de Apresentação e Apreensão</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento que formaliza a apreensão de bens e roupas para perícia.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Retrato Falado">
+  <data key="d0">Retrato Falado</data>
+  <data key="d1">method</data>
+  <data key="d2">Técnica de identificação visual do autor realizada com auxílio da vítima.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instrução Normativa nº 17 de 2017">
+  <data key="d0">Instrução Normativa nº 17 de 2017</data>
+  <data key="d1">content</data>
+  <data key="d2">Norma aplicada em casos de subtração de objetos como celulares.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Termo de Consentimento">
+  <data key="d0">Termo de Consentimento</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento assinado pela vítima autorizando o acesso ao seu prontuário médico.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Requerimento de Medidas Protetivas de Urgência">
+  <data key="d0">Requerimento de Medidas Protetivas de Urgência</data>
+  <data key="d1">content</data>
+  <data key="d2">Legal document to which the results of system searches (MILLENIUM, PROCED, SIIC) must be attached.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Memorando de Encaminhamento">
+  <data key="d0">Memorando de Encaminhamento</data>
+  <data key="d1">content</data>
+  <data key="d2">Official document used to send pieces and evidence to the Institute of Criminalistics.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Material Biológico">
+  <data key="d0">Material Biológico</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Biological evidence such as semen or DNA samples collected from the victim, the author, or clothing for forensic analysis.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Menores de 14 Anos">
+  <data key="d0">Menores de 14 Anos</data>
+  <data key="d1">person</data>
+  <data key="d2">Specific category of victims (children/adolescents) for whom medical examination is mandatory regardless of the time elapsed since the facts.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Arma De Fogo">
+  <data key="d0">Arma De Fogo</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Objeto que pode estar em posse do autor, devendo ser detalhado, localizado e possivelmente apreendido.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Sistema Proced">
+  <data key="d0">Sistema Proced</data>
+  <data key="d1">data</data>
+  <data key="d2">Sistema de consulta policial utilizado para verificar o histórico dos envolvidos na ocorrência.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Sistema Siic">
+  <data key="d0">Sistema Siic</data>
+  <data key="d1">data</data>
+  <data key="d2">Sistema de informação utilizado para pesquisa de antecedentes e dados dos envolvidos.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Auto De Apresentação E Apreensão">
+  <data key="d0">Auto De Apresentação E Apreensão</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento que formaliza a posse de objetos ou bens recolhidos durante a investigação.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Laudo Pericial">
+  <data key="d0">Laudo Pericial</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento oficial emitido pelo Instituto Médico Legal após o Exame de Corpo de Delito.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Queixa-Crime">
+  <data key="d0">Queixa-Crime</data>
+  <data key="d1">content</data>
+  <data key="d2">Peça processual necessária para o início da ação penal privada, sujeita a um prazo decadencial de 06 meses.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Memorando De Encaminhamento">
+  <data key="d0">Memorando De Encaminhamento</data>
+  <data key="d1">content</data>
+  <data key="d2">Documento que acompanha bens apreendidos destinados ao Instituto de Criminalística ou ao Instituto Médico Legal.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Delegacia Especial de Atendimento à Mulher">
+  <data key="d0">Delegacia Especial de Atendimento à Mulher</data>
+  <data key="d1">organization</data>
+  <data key="d2">A specialized police station dedicated to assisting women, responsible for coordinating shelter placements and receiving victims.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Ministério Público">
+  <data key="d0">Ministério Público</data>
+  <data key="d1">organization</data>
+  <data key="d2">The public prosecutor's office responsible for legal oversight and requesting diligences.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Polícia Civil do Distrito Federal">
+  <data key="d0">Polícia Civil do Distrito Federal</data>
+  <data key="d1">organization</data>
+  <data key="d2">The civil police force of the Federal District responsible for the standard operational procedures and investigations.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Governo do Distrito Federal">
+  <data key="d0">Governo do Distrito Federal</data>
+  <data key="d1">organization</data>
+  <data key="d2">The regional government body under which the PCDF operates.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Instrução Normativa 95/2003">
+  <data key="d0">Instrução Normativa 95/2003</data>
+  <data key="d1">content</data>
+  <data key="d2">Internal regulation used to classify police reports.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Norma de Serviço 04/2018">
+  <data key="d0">Norma de Serviço 04/2018</data>
+  <data key="d1">content</data>
+  <data key="d2">Service norm from the Corregedoria-Geral de Polícia regulating special testimony for children and adolescents.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Albergues Específicos">
+  <data key="d0">Albergues Específicos</data>
+  <data key="d1">location</data>
+  <data key="d2">Specific shelters for children and adolescents where the victim's children may be referred.</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Policial Responsável Pelo Acolhimento">
+  <data key="d0">Policial Responsável Pelo Acolhimento</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d2">The officer in charge of reception assists the victim in filling out the risk questionnaire and provides information about the Casa Abrigo.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<node id="Local dos Fatos">
+  <data key="d0">Local dos Fatos</data>
+  <data key="d3">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d2">The victim should inform if they can indicate the location where the facts happened and the path taken.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1784595663</data>
+  <data key="d6"></data>
+</node>
+<edge source="Vítima" target="IPDNA">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima deve ser encaminhada ao IPDNA para fornecer material biológico para fins periciais.</data>
+  <data key="d9">fornece material biológico</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Hospital">
+  <data key="d7">2.0</data>
+  <data key="d8">A vítima hospitalizada recebe atendimento e deve ser entrevistada no local.&lt;SEP&gt;A vítima hospitalizada recebe o primeiro atendimento e acolhimento por profissionais de saúde no hospital.</data>
+  <data key="d9">Atendimento,Entrevista,recebe atendimento</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Autoridade Policial">
+  <data key="d7">5.0</data>
+  <data key="d8">O relato da vítima é levado à Autoridade Policial para que as medidas legais sejam tomadas.&lt;SEP&gt;A autoridade policial deve entrevistar a vítima hospitalizada no local onde ela se encontra.&lt;SEP&gt;The police authority must prioritize medical care for the victim and seek search and seizure of firearms reported by her.&lt;SEP&gt;A autoridade policial conduz a oitiva da vítima buscando informações pertinentes ao caso.&lt;SEP&gt;A Autoridade Policial deve entrevistar a vítima e fornecer o número da ocorrência para acesso a cópias.</data>
+  <data key="d9">Conhecimento,Diligência,Entrevista,Oitiva,Providências,Questionamento,entrevista,orienta,prioritizes,protects</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Sistema Millenium">
+  <data key="d7">2.0</data>
+  <data key="d8">Dados da vítima são consultados no sistema Millenium, incluindo termos de consentimento médico.&lt;SEP&gt;A vítima assina termo de consentimento para que seu prontuário médico no Sistema Millenium seja acessado.</data>
+  <data key="d9">Consentimento,Consulta,acesso a prontuário</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Instituto de Medicina Legal">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima é conduzida ao IML para exames de corpo de delito, toxicológicos ou de gravidez.</data>
+  <data key="d9">realiza exames</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="PAV">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima é encaminhada ao PAV para submissão à Profilaxia Pós-Exposição (PEP) ao HIV.</data>
+  <data key="d9">recebe profilaxia</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Departamento de Polícia Técnica">
+  <data key="d7">2.0</data>
+  <data key="d8">O Departamento de Polícia Técnica mantém suas rotinas de atendimento integradas ao novo protocolo de acolhimento.&lt;SEP&gt;O DPT aplica o protocolo de acolhimento para evitar a revitimização da mulher.</data>
+  <data key="d9">acolhimento,atende</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Instituto de Identificação">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima pode ser encaminhada ao Instituto de Identificação para ajudar na criação de um retrato falado.</data>
+  <data key="d9">confecção de retrato falado</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Lei 11.340/2006">
+  <data key="d7">1.0</data>
+  <data key="d8">O protocolo de atendimento aplica-se às vítimas nas circunstâncias definidas por esta Lei.</data>
+  <data key="d9">proteção legal</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Profissionais de Saúde">
+  <data key="d7">2.0</data>
+  <data key="d8">Health professionals perform the first service and collect relevant information about the dynamics of the facts from the victim.&lt;SEP&gt;Health professionals provide the initial reception and gather relevant information about the incident.</data>
+  <data key="d9">Atendimento,Coleta de Informações,collect information,provide care</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Testemunhas">
+  <data key="d7">1.0</data>
+  <data key="d8">Witnesses provide accounts regarding the facts experienced by the victim.</data>
+  <data key="d9">involved in same event</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Veículo da Vítima">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim's car may be the site where the sexual violence occurred.</data>
+  <data key="d9">location of crime,owner</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Termo De Consentimento">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima deve assinar o termo para permitir o acesso ao seu prontuário médico.</data>
+  <data key="d9">Assina</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Termo De Requerimento De Medidas Protetivas">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima assina o requerimento para solicitar proteção legal contra o agressor.</data>
+  <data key="d9">Assina,Solicita</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Ocorrência Policial">
+  <data key="d7">2.0</data>
+  <data key="d8">A vítima fornece as informações e depoimentos que compõem o histórico da ocorrência policial.&lt;SEP&gt;A vítima fornece materiais e informações para a composição da ocorrência e recebe seu número de identificação.</data>
+  <data key="d9">Apresenta Provas,Declaração,Recebe Número,Registro</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Casa Abrigo">
+  <data key="d7">2.0</data>
+  <data key="d8">A vítima pode ser acolhida pela Casa Abrigo como medida de proteção.&lt;SEP&gt;A vítima pode ser transportada para a Casa Abrigo em casos de necessidade de segurança extrema.</data>
+  <data key="d9">Acolhimento,Encaminhada para,Proteção</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Agressor">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima sofre a ação do agressor e solicita que este mantenha distância mínima.</data>
+  <data key="d9">Requer distância de,Vítima de</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="WhatsApp">
+  <data key="d7">2.0</data>
+  <data key="d8">A vítima pode autorizar o recebimento de intimações pessoais por meio do aplicativo WhatsApp.&lt;SEP&gt;The victim must provide formal authorization for the use of WhatsApp messages as evidence.</data>
+  <data key="d9">Authorizes use of,Comunicação,Intimação</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Mídia">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim can provide digital media to the police station to substitute the seizure of their mobile phone.</data>
+  <data key="d9">Provides</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Cártulas De Cheques">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim is requested to provide microfilms of checks involved in infractions for seizure.</data>
+  <data key="d9">Provides microfilms</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Filho Menor">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim's minor children must be identified in the protection order request to define safety parameters.</data>
+  <data key="d9">Parent of</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Delegacia De Polícia">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim presents printed materials and digital media to the police station to support the request for protective measures.</data>
+  <data key="d9">Presents materials to</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Policial">
+  <data key="d7">2.0</data>
+  <data key="d8">O policial deve acolher a vítima, tranquilizá-la e orientá-la sobre os procedimentos da Lei Maria da Penha.&lt;SEP&gt;The police officer must ask the victim how they wish to be called if their civil name does not match their gender identity.</data>
+  <data key="d9">Atendimento,Orientação,respects identity</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Nome Social">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima deve ser tratada pelo seu nome social caso este não coincida com o registro civil.</data>
+  <data key="d9">identifica-se</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Rede de Saúde">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima deve ser informada sobre os procedimentos específicos relacionados ao seu atendimento na Rede de Saúde.</data>
+  <data key="d9">encaminhamento</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Autor">
+  <data key="d7">5.0</data>
+  <data key="d8">O registro deve determinar o tipo de vínculo entre a vítima e o autor, bem como o histórico de agressões anteriores.&lt;SEP&gt;A vítima relata as ações criminosas e a conduta do autor, incluindo histórico de separação e agressões.&lt;SEP&gt;The report clarifies if the author and victim reside together or are legally/factually separated.&lt;SEP&gt;A vítima deve esclarecer se pode reconhecer o autor e fornecer detalhes sobre suas características e paradeiro.&lt;SEP&gt;Under no circumstances shall the victim have direct contact with the perpetrator.</data>
+  <data key="d9">Cohabitation,Conflito,Descrição,Histórico de violência,Reconhecimento,Relacionamento,Separation,no contact</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Exame Pericial">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim's clothing may be seized for the purpose of a forensic examination.</data>
+  <data key="d9">subject of</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Laudos">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim must be informed of the deadlines and forecasts for the conclusion of the forensic reports.</data>
+  <data key="d9">informed of</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Termo De Declarações">
+  <data key="d7">1.0</data>
+  <data key="d8">As declarações da vítima são formalizadas no termo de declarações durante o acolhimento inicial.</data>
+  <data key="d9">Depoimento,Registro</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Testemunha">
+  <data key="d7">1.0</data>
+  <data key="d8">Vítima e testemunhas devem ser ouvidas em separado durante a colheita de depoimentos.</data>
+  <data key="d9">Oitiva,Procedimento</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Medida Protetiva">
+  <data key="d7">1.0</data>
+  <data key="d8">Deve-se verificar se a vítima já possui medidas protetivas em vigência contra o autor.</data>
+  <data key="d9">Histórico jurídico,Proteção</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Filhos">
+  <data key="d7">2.0</data>
+  <data key="d8">The report must detail the number of children, their names, ages, and legal custody or support status.&lt;SEP&gt;A vítima pode ter filhos cujos documentos são relevantes para o esclarecimento dos fatos narrados.</data>
+  <data key="d9">Custody,Family relationship,Parentesco</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Instituto Médico Legal">
+  <data key="d7">2.0</data>
+  <data key="d8">A vítima é encaminhada ao IML para realização de exame de corpo de delito em caso de agressão.&lt;SEP&gt;A vítima é encaminhada ao IML para a realização do Exame de Corpo de Delito.</data>
+  <data key="d9">Encaminhamento,Exame</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Roupas da Vítima">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima apresenta as roupas usadas no momento da violência para apreensão e perícia.</data>
+  <data key="d9">Apreensão,Apresentação</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Bolsa de Crise">
+  <data key="d7">1.0</data>
+  <data key="d8">A bolsa de crise é oferecida à vítima prioritariamente em casos de roupas sujas ou apreendidas.</data>
+  <data key="d9">Assistência,Oferta</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Aparelho Celular">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima informa se seu celular foi subtraído, fornecendo dados como o IMEI.</data>
+  <data key="d9">Identificação,Subtração</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Arma de Fogo">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima descreve a arma de fogo que estava sob posse do autor durante o crime.</data>
+  <data key="d9">Descrição,Posse</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Termo de Consentimento">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima assina o termo para autorizar o acesso ao seu prontuário médico no hospital.</data>
+  <data key="d9">Assinatura,Autorização</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Veículo">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima descreve o veículo utilizado pelo autor durante a abordagem ou fuga.</data>
+  <data key="d9">Descrição,Fuga</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Retrato Falado">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima realiza o retrato falado caso tenha condições de reconhecer o autor.</data>
+  <data key="d9">Identificação,Realização</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Prontuário Médico">
+  <data key="d7">2.0</data>
+  <data key="d8">A vítima deve autorizar o acesso ao seu prontuário médico hospitalar para a realização de exames indiretos.&lt;SEP&gt;The victim must authorize access to their medical record through a signed consent term.</data>
+  <data key="d9">Acesso,Consentimento,Propriedade</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Material Biológico">
+  <data key="d7">1.0</data>
+  <data key="d8">Biological material is sought in the victim's body or clothing to prove sexual violence.</data>
+  <data key="d9">Constatação,Perícia</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Instrução Normativa nº 17 de 2017">
+  <data key="d7">1.0</data>
+  <data key="d8">This regulation is applied when the victim reports the theft of objects like mobile phones.</data>
+  <data key="d9">Aplicação Legal,Subtração de Bens</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Local dos Fatos">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim should inform if they can indicate the location where the facts happened and the path taken.</data>
+  <data key="d9">Indicação,Trajeto</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Medidas Protetivas De Urgência">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima manifesta o desejo de requerer ou recusar medidas protetivas contra o autor.</data>
+  <data key="d9">Proteção,Requerimento</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Exame De Corpo De Delito">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima submete-se ao exame para produzir prova pericial de lesões físicas.</data>
+  <data key="d9">Prova,Submissão</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Queixa-Crime">
+  <data key="d7">1.0</data>
+  <data key="d8">A vítima deve ser informada sobre o prazo de 06 meses para oferecer queixa-crime em casos de ação penal privada.</data>
+  <data key="d9">Ação Penal,Prazo</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vítima" target="Exame de Corpo de Delito">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim is subjected to a forensic examination if the situation of violence demands it.</data>
+  <data key="d9">undergoes</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Delegacia de Polícia">
+  <data key="d7">1.0</data>
+  <data key="d8">A Autoridade Policial reduz a termo as declarações dos envolvidos na Delegacia de Polícia.</data>
+  <data key="d9">registra ocorrência</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Veículo da Vítima">
+  <data key="d7">1.0</data>
+  <data key="d8">The Police Authority must seize the victim's car and request a forensic exam if the crime happened inside it.</data>
+  <data key="d9">promotes seizure,requests forensics</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Testemunhas">
+  <data key="d7">1.0</data>
+  <data key="d8">The Police Authority is responsible for reducing the witnesses' statements to writing immediately.</data>
+  <data key="d9">records statements</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Ocorrência Policial">
+  <data key="d7">1.0</data>
+  <data key="d8">A autoridade policial avalia os fatos e as provas para o registro e condução do caso.</data>
+  <data key="d9">Avalia,Registra</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Veículo">
+  <data key="d7">1.0</data>
+  <data key="d8">The police authority decides if a vehicle needs to be seized for a detailed forensic examination at the station yard.</data>
+  <data key="d9">Evaluates seizure</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Sistema De Monitoramento">
+  <data key="d7">1.0</data>
+  <data key="d8">The police must verify and immediately request images from any monitoring system at the crime scene.</data>
+  <data key="d9">Requests images from</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Procedimento Operacional Padrão">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim's report must be immediately brought to the attention of the Police Authority as part of the protocol.</data>
+  <data key="d9">Informed by</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Poder Judiciário">
+  <data key="d7">1.0</data>
+  <data key="d8">A autoridade policial representa ao judiciário para pedidos de busca, apreensão ou medidas protetivas.</data>
+  <data key="d9">Comunicação,Representação</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Arma De Fogo">
+  <data key="d7">1.0</data>
+  <data key="d8">A autoridade policial decide sobre a necessidade de apreender a arma de fogo mencionada.</data>
+  <data key="d9">Apreensão,Decisão</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Autor">
+  <data key="d7">1.0</data>
+  <data key="d8">The police authority represents for the preventive detention of the perpetrator in specific legal cases.</data>
+  <data key="d9">represents against</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autoridade Policial" target="Lei 12.845/2013">
+  <data key="d7">1.0</data>
+  <data key="d8">The police authority must follow the legal mandates for mandatory care of sexual violence victims.</data>
+  <data key="d9">complies with,observes</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="IPDNA" target="Autor">
+  <data key="d7">1.0</data>
+  <data key="d8">O autor, quando localizado, é encaminhado ao IPDNA para fornecer material biológico.</data>
+  <data key="d9">Encaminhamento,Material Biológico</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia de Polícia" target="Instituto Médico Legal">
+  <data key="d7">1.0</data>
+  <data key="d8">The police station is responsible for taking the victim to the medical institute for forensic exams.</data>
+  <data key="d9">conducts to</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia de Polícia" target="Delegacia Especial de Atendimento à Mulher">
+  <data key="d7">1.0</data>
+  <data key="d8">The general police station transports the victim and the formal request to the specialized unit.</data>
+  <data key="d9">requests,transports to</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia de Polícia" target="Conselho Tutelar">
+  <data key="d7">1.0</data>
+  <data key="d8">The police station must notify the guardianship council regarding the placement of the victim's children.</data>
+  <data key="d9">communicates with</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia de Polícia" target="Poder Judiciário">
+  <data key="d7">1.0</data>
+  <data key="d8">The police station performs future diligences requested by the judiciary.</data>
+  <data key="d9">executes for</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia de Polícia" target="Ministério Público">
+  <data key="d7">1.0</data>
+  <data key="d8">The police station performs future diligences requested by the public prosecutor's office.</data>
+  <data key="d9">executes for</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia de Polícia" target="Albergues Específicos">
+  <data key="d7">1.0</data>
+  <data key="d8">The police station sends the victim's children to specific shelters if they cannot stay at the Casa Abrigo.</data>
+  <data key="d9">refers to</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia de Polícia" target="Testemunhas">
+  <data key="d7">1.0</data>
+  <data key="d8">The police station is responsible for hearing witnesses separately during the investigation.</data>
+  <data key="d9">hears,interviews</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia de Polícia" target="Instrução Normativa 95/2003">
+  <data key="d7">1.0</data>
+  <data key="d8">Police reports must be classified according to this specific internal instruction.</data>
+  <data key="d9">classifies by,follows</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Departamento de Polícia Técnica" target="Lei 11.340/2006">
+  <data key="d7">1.0</data>
+  <data key="d8">The DPT units must apply the protocol in cases involving the Maria da Penha Law.</data>
+  <data key="d9">applies,governed by</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Departamento de Polícia Técnica" target="Lei 13.721/2018">
+  <data key="d7">1.0</data>
+  <data key="d8">The DPT must follow the priority for forensic exams established by this law.</data>
+  <data key="d9">observes priority</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PAV" target="Secretaria de Estado de Saúde">
+  <data key="d7">1.0</data>
+  <data key="d8">The PAV program is a specialized unit within the Secretaria de Estado de Saúde.</data>
+  <data key="d9">maintains,manages</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sistema Millenium" target="Termo De Requerimento De Medidas Protetivas">
+  <data key="d7">1.0</data>
+  <data key="d8">O sistema é utilizado para gerar o termo de requerimento no campo de relatórios.</data>
+  <data key="d9">Armazena,Gera</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lei 11.340/2006" target="Procedimento Operacional Padrão">
+  <data key="d7">1.0</data>
+  <data key="d8">The protocol is applied in cases falling under the Maria da Penha Law.</data>
+  <data key="d9">Based on,Complies with</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PCDF" target="Corregedoria-Geral de Polícia">
+  <data key="d7">1.0</data>
+  <data key="d8">A Corregedoria-Geral de Polícia é a área da PCDF responsável pela emissão do Procedimento Operacional Padrão.</data>
+  <data key="d9">emissão de protocolo</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-008</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Corregedoria-Geral de Polícia" target="Norma de Serviço nº 04/2017">
+  <data key="d7">1.0</data>
+  <data key="d8">The Corregedoria-Geral de Polícia is the issuing authority of Service Regulation No. 04 of March 8, 2017.</data>
+  <data key="d9">issued by</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Corregedoria-Geral de Polícia" target="Procedimento Operacional Padrão">
+  <data key="d7">1.0</data>
+  <data key="d8">The standard procedure was emitted by the internal affairs department of the police.</data>
+  <data key="d9">issued by</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Corregedoria-Geral de Polícia" target="Norma de Serviço 04/2018">
+  <data key="d7">1.0</data>
+  <data key="d8">The service norm regarding special testimony was issued by the internal affairs department.</data>
+  <data key="d9">issued by</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Código de Processo Penal" target="Lei nº 13.721/2018">
+  <data key="d7">1.0</data>
+  <data key="d8">A Lei nº 13.721/2018 alterou a redação dos incisos I e II do parágrafo único do artigo 158 do Código de Processo Penal.</data>
+  <data key="d9">altera</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Código Penal" target="Lei nº 11.340/2006">
+  <data key="d7">1.0</data>
+  <data key="d8">O crime de feminicídio tipificado no Código Penal é aplicado nas circunstâncias da Lei Maria da Penha.</data>
+  <data key="d9">relaciona-se</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lei 10.048/2000" target="Procedimento Operacional Padrão">
+  <data key="d7">1.0</data>
+  <data key="d8">The protocol must follow the priority of service rules established by this law.</data>
+  <data key="d9">Observes</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Agressor" target="Medidas Protetivas De Urgência">
+  <data key="d7">1.0</data>
+  <data key="d8">O agressor deve cumprir as restrições impostas pelas medidas, como o afastamento do lar.</data>
+  <data key="d9">Restrito por,Sujeito a</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Agressor" target="Lei N. 10.826/2003">
+  <data key="d7">1.0</data>
+  <data key="d8">O agressor pode ter a suspensão da posse de armas comunicada ao órgão competente com base nesta lei.</data>
+  <data key="d9">Sujeito a sanções</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Agressor" target="Filho Menor">
+  <data key="d7">1.0</data>
+  <data key="d8">The relationship and contact rules between the aggressor and the minor children are specified in the protection request.</data>
+  <data key="d9">Parent of</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Agressor" target="Ofendida">
+  <data key="d7">3.0</data>
+  <data key="d8">The agressor is prohibited from contacting the ofendida, her family, or witnesses.&lt;SEP&gt;The victim may request a temporary prohibition on the aggressor celebrating contracts involving common property without judicial authorization.&lt;SEP&gt;The victim can request the restitution of stolen goods and the suspension of powers of attorney granted to the aggressor.</data>
+  <data key="d9">Contractual prohibition,Legal restriction,Prohibition of contact,Property protection,Violence</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Agressor" target="Autoridade Judiciária">
+  <data key="d7">1.0</data>
+  <data key="d8">The Autoridade Judiciária may order the agressor to pay provisional alimony or restrict his access to certain locations.</data>
+  <data key="d9">Financial obligation,Legal restriction</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Testemunha" target="Ocorrência Policial">
+  <data key="d7">2.0</data>
+  <data key="d8">As testemunhas são listadas na ocorrência para posterior depoimento formal.&lt;SEP&gt;As declarações das testemunhas são reduzidas a termo e integradas ao registro da ocorrência.</data>
+  <data key="d9">Enumeração,Oitiva,Presta Declarações</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Testemunha" target="Delegacia">
+  <data key="d7">1.0</data>
+  <data key="d8">As testemunhas são ouvidas formalmente na Delegacia para esclarecimento dos fatos.</data>
+  <data key="d9">Depoimento,Oitiva</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia De Polícia" target="Delegacia Especial De Atendimento À Mulher">
+  <data key="d7">1.0</data>
+  <data key="d8">General police stations must perform specific diligences and contact the specialized station before referring a victim to the Casa Abrigo.</data>
+  <data key="d9">Coordination,Referral</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Delegacia De Polícia" target="Ocorrência Policial">
+  <data key="d7">1.0</data>
+  <data key="d8">The report must indicate which police station handled previous and current occurrences.</data>
+  <data key="d9">Location,Registration</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Instituto De Criminalística" target="Ocorrência Policial">
+  <data key="d7">1.0</data>
+  <data key="d8">O instituto realiza exames técnicos em aparelhos ou veículos vinculados à ocorrência.</data>
+  <data key="d9">Realiza Perícia</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Instituto De Criminalística" target="Auto De Apresentação E Apreensão">
+  <data key="d7">1.0</data>
+  <data key="d8">Bens listados no auto de apreensão são encaminhados ao instituto para análise técnica.</data>
+  <data key="d9">Encaminhamento,Perícia</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Medidas Protetivas De Urgência" target="Magistrado">
+  <data key="d7">1.0</data>
+  <data key="d8">O magistrado avalia a relevância das provas para conceder as medidas protetivas.</data>
+  <data key="d9">Avalia,Concede</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Medidas Protetivas De Urgência" target="Procedimento Operacional Padrão">
+  <data key="d7">1.0</data>
+  <data key="d8">The protocol aims to collect evidence to support the appreciation of urgent protective measures.</data>
+  <data key="d9">Facilitates</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="WhatsApp">
+  <data key="d7">1.0</data>
+  <data key="d8">Screenshots of messages from WhatsApp are printed and attached to the police report as evidence.</data>
+  <data key="d9">Evidence source</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Lei Maria Da Penha">
+  <data key="d7">1.0</data>
+  <data key="d8">A natureza principal da ocorrência policial deve ser sempre classificada como Lei Maria da Penha.</data>
+  <data key="d9">Classificação,Natureza</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Viatura">
+  <data key="d7">1.0</data>
+  <data key="d8">Todas as viaturas envolvidas no atendimento devem ser registradas nos dados básicos da ocorrência.</data>
+  <data key="d9">Cadastro,Envolvimento</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Código De Processo Penal">
+  <data key="d7">1.0</data>
+  <data key="d8">A definição do endereço do fato na ocorrência segue as regras estabelecidas no Código de Processo Penal.</data>
+  <data key="d9">Jurisdição,Regramento</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Judiciário">
+  <data key="d7">1.0</data>
+  <data key="d8">The report should include the progress of cases within the Judiciary and any existing judicial decisions.</data>
+  <data key="d9">Legal status,Monitoring</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Dados Básicos">
+  <data key="d7">1.0</data>
+  <data key="d8">The 'Dados Básicos' field is a component of the police occurrence record.</data>
+  <data key="d9">Data entry,Structure</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Condições Locais - Criminal">
+  <data key="d7">1.0</data>
+  <data key="d8">The 'Condições Locais - Criminal' field is a component of the police occurrence record.</data>
+  <data key="d9">Data entry,Structure</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Pessoas Envolvidas">
+  <data key="d7">1.0</data>
+  <data key="d8">The 'Pessoas Envolvidas' field is a component of the police occurrence record.</data>
+  <data key="d9">Data entry,Structure</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Veículos Envolvidos E Objetos Envolvidos">
+  <data key="d7">1.0</data>
+  <data key="d8">The 'Veículos Envolvidos E Objetos Envolvidos' field is a component of the police occurrence record.</data>
+  <data key="d9">Data entry,Structure</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Sistemas PROCED e SIIC">
+  <data key="d7">1.0</data>
+  <data key="d8">Os resultados das consultas nestes sistemas devem ser anexados à ocorrência policial.</data>
+  <data key="d9">Anexo,Consulta</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Memorando de Encaminhamento">
+  <data key="d7">1.0</data>
+  <data key="d8">The memorandum for sending pieces to the Institute of Criminalistics must be specified in the occurrence report.</data>
+  <data key="d9">Documentação,Instrução</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Sistema Proced">
+  <data key="d7">1.0</data>
+  <data key="d8">Os resultados das consultas ao sistema PROCED devem ser anexados à ocorrência policial.</data>
+  <data key="d9">Anexo,Consulta</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Sistema Siic">
+  <data key="d7">1.0</data>
+  <data key="d8">Os resultados das consultas ao sistema SIIC devem ser anexados à ocorrência policial.</data>
+  <data key="d9">Anexo,Consulta</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ocorrência Policial" target="Memorando De Encaminhamento">
+  <data key="d7">1.0</data>
+  <data key="d8">O memorando de encaminhamento de bens deve ser mencionado e anexado ao histórico da ocorrência.</data>
+  <data key="d9">Anexo,Procedimento</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Termo De Requerimento De Medidas Protetivas" target="Corregedoria-Geral De Polícia">
+  <data key="d7">1.0</data>
+  <data key="d8">A Corregedoria estabelece normas para a composição dos autos apartados do requerimento.</data>
+  <data key="d9">Regulamenta</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Casa Abrigo" target="Delegacia Especial De Atendimento À Mulher">
+  <data key="d7">1.0</data>
+  <data key="d8">The specialized station is the only entity responsible for referring victims to the Casa Abrigo and checking for vacancy.</data>
+  <data key="d9">Coordination,Referral</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Casa Abrigo" target="Ofendida">
+  <data key="d7">1.0</data>
+  <data key="d8">The ofendida may be admitted to the Casa Abrigo if she is at real risk of death.</data>
+  <data key="d9">Protection,Shelter</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Casa Abrigo" target="Dependentes Menores">
+  <data key="d7">1.0</data>
+  <data key="d8">Daughters of any age and sons up to twelve years old can accompany the ofendida to the Casa Abrigo.</data>
+  <data key="d9">Admission rules,Shelter</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Casa Abrigo" target="Delegacia Especial de Atendimento à Mulher">
+  <data key="d7">1.0</data>
+  <data key="d8">The specialized station informs other units about the availability of space for victims at the shelter.</data>
+  <data key="d9">coordinates,informs</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Corregedoria-Geral De Polícia" target="Circular Nº 06/2018">
+  <data key="d7">1.0</data>
+  <data key="d8">The circular was issued by the General Police Inspectorate on December 17, 2018.</data>
+  <data key="d9">Issued by</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Corregedoria-Geral De Polícia" target="Polícia Civil Do Distrito Federal">
+  <data key="d7">1.0</data>
+  <data key="d8">The Corregedoria-Geral is the oversight and normative department within the PCDF.</data>
+  <data key="d9">Internal body of</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Corregedoria-Geral De Polícia" target="Procedimento Operacional Padrão">
+  <data key="d7">1.0</data>
+  <data key="d8">The Corregedoria-Geral is the issuing area for this operational protocol.</data>
+  <data key="d9">Issued by</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Circular Nº 06/2018" target="Procedimento Operacional Padrão">
+  <data key="d7">1.0</data>
+  <data key="d8">The request for protective measures within the protocol must follow this specific circular.</data>
+  <data key="d9">Follows</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Victim" target="Police Officer">
+  <data key="d7">1.0</data>
+  <data key="d8">The police officer must wait for the victim's emotional stability and tranquilize them during the report.</data>
+  <data key="d9">attends to,tranquilizes</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Victim" target="Author">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim provides details on the author's scent, accent, scars, piercings, tattoos, and physical build.</data>
+  <data key="d9">identifies traits</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Victim" target="Police Authority">
+  <data key="d7">1.0</data>
+  <data key="d8">The authority prioritizes medical care for the victim and decides on the necessity of further questioning.</data>
+  <data key="d9">directs inquiry,prioritizes care</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Victim" target="Health Network">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim is informed about and referred to specific procedures within the health network.</data>
+  <data key="d9">receives treatment</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Victim" target="Police Report">
+  <data key="d7">2.0</data>
+  <data key="d8">The report documents the victim's account of the facts, including personal data and descriptions.&lt;SEP&gt;The victim must inform the police about the clothes they were wearing at the time of the approach for the report.</data>
+  <data key="d9">informs clothing,records narrative</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Victim" target="Witness">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim and witnesses must be heard separately during the police procedures.</data>
+  <data key="d9">separate hearing</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Victim" target="Facial Composite">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim provides details to enable the creation of a facial composite of the author.</data>
+  <data key="d9">provides description</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Author" target="Police Report">
+  <data key="d7">1.0</data>
+  <data key="d8">The report includes physical characteristics, clothing, and contact information of the author.</data>
+  <data key="d9">records identification</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Author" target="Weapon">
+  <data key="d7">1.0</data>
+  <data key="d8">The author may use firearms or knives to threaten or subjugate the victim during the approach.</data>
+  <data key="d9">possesses,uses</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Police Report" target="Rape">
+  <data key="d7">1.0</data>
+  <data key="d8">Occurrences of rape must be classified as reserved within the police report system.</data>
+  <data key="d9">classification</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Police Report" target="Basic Data Field">
+  <data key="d7">1.0</data>
+  <data key="d8">The Police Report includes the Basic Data Field to organize temporal and nature-of-occurrence information.</data>
+  <data key="d9">contains</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Police Report" target="Local Conditions - Criminal Field">
+  <data key="d7">1.0</data>
+  <data key="d8">The Police Report includes the Local Conditions - Criminal Field to register environmental and logistical details.</data>
+  <data key="d9">contains</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Police Report" target="Involved Persons Field">
+  <data key="d7">1.0</data>
+  <data key="d8">The Police Report includes the Involved Persons Field to store contact and professional data of those involved.</data>
+  <data key="d9">contains</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Police Report" target="Physical Characteristics Field">
+  <data key="d7">1.0</data>
+  <data key="d8">The Police Report includes the Physical Characteristics Field to assist in the identification of individuals.</data>
+  <data key="d9">contains</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Police Report" target="Vehicles, Objects and Modus Operandi Field">
+  <data key="d7">1.0</data>
+  <data key="d8">The Police Report includes this field to specify the assets and methods used during the crime.</data>
+  <data key="d9">contains</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="History Field" target="Modus Operandi">
+  <data key="d7">1.0</data>
+  <data key="d8">The history field must pormenorize the conduct and methods used by the criminal.</data>
+  <data key="d9">contains details</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Local Conditions - Criminal Field" target="Police Vehicle">
+  <data key="d7">1.0</data>
+  <data key="d8">All police vehicles involved in the occurrence must be registered within the Local Conditions field.</data>
+  <data key="d9">registers</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-006</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lei nº 12.845/2013" target="Distrito Federal">
+  <data key="d7">1.0</data>
+  <data key="d8">The laws and protocols mentioned apply within the jurisdiction of the Distrito Federal.</data>
+  <data key="d9">governed by</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Conselho Federal de Medicina" target="Médicos">
+  <data key="d7">1.0</data>
+  <data key="d8">As resoluções do Conselho Federal de Medicina devem ser observadas pelos médicos no atendimento.</data>
+  <data key="d9">regula</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Policial" target="Bolsa de Crise">
+  <data key="d7">1.0</data>
+  <data key="d8">O policial deve ofertar prioritariamente a bolsa de crise à vítima em situações de vestes apreendidas ou danificadas.</data>
+  <data key="d9">oferta</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-009</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autor" target="Núcleo Familiar">
+  <data key="d7">1.0</data>
+  <data key="d8">The report identifies the author's position within the victim's family structure.</data>
+  <data key="d9">Family connection</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autor" target="Arma De Fogo">
+  <data key="d7">1.0</data>
+  <data key="d8">O autor é investigado por possuir ou utilizar arma de fogo na prática de crimes.</data>
+  <data key="d9">Posse,Uso</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Governo Do Distrito Federal" target="Polícia Civil Do Distrito Federal">
+  <data key="d7">1.0</data>
+  <data key="d8">The PCDF is an institution under the administration of the Government of the Federal District.</data>
+  <data key="d9">Subordinate to</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Delegacias De Polícia">
+  <data key="d7">1.0</data>
+  <data key="d8">The standard operational procedure is designed to be implemented within police stations.</data>
+  <data key="d9">Applied at</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Mulheres Vítimas De Violência Doméstica E Familiar">
+  <data key="d7">1.0</data>
+  <data key="d8">The protocol establishes how victims should be welcomed and treated by the police.</data>
+  <data key="d9">Guides treatment of,Protects</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Questionário De Avalição De Risco">
+  <data key="d7">1.0</data>
+  <data key="d8">The protocol mandates the completion of the risk assessment questionnaire.</data>
+  <data key="d9">Requires use of</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Lei 13.431/2017">
+  <data key="d7">2.0</data>
+  <data key="d8">The protocol must respect the rules regarding special testimony for minors.&lt;SEP&gt;The operational procedure must observe the legal requirements for child and adolescent testimony.</data>
+  <data key="d9">Observes,incorporates,observes</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000&lt;SEP&gt;doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Norma De Serviço Nº 04/2017">
+  <data key="d7">1.0</data>
+  <data key="d8">In cases of Feminicide, this protocol is applied in conjunction with the 2017 service norm.</data>
+  <data key="d9">Applied with</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Norma De Serviço Nº 09/2012">
+  <data key="d7">1.0</data>
+  <data key="d8">The protocol follows this norm by requiring new reports for every new instance of violence.</data>
+  <data key="d9">Complies with</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Instrução Normativa Nº 95/2003">
+  <data key="d7">1.0</data>
+  <data key="d8">Police occurrences handled under the protocol are classified according to this instruction.</data>
+  <data key="d9">Classifies via</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Norma De Serviço Conjunta Nº 001/2017">
+  <data key="d7">1.0</data>
+  <data key="d8">The victim's right to choose a police station is limited by the provisions of this joint norm.</data>
+  <data key="d9">Subject to</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Procedimento Operacional Padrão" target="Feminicídio">
+  <data key="d7">1.0</data>
+  <data key="d8">The protocol includes specific provisions for dealing with crimes of Feminicide.</data>
+  <data key="d9">Addresses</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mulheres Vítimas De Violência Doméstica E Familiar" target="Policial Feminina">
+  <data key="d7">1.0</data>
+  <data key="d8">The protocol recommends that female officers attend to victims whenever possible.</data>
+  <data key="d9">Attends to</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ofendida" target="Questionário De Avaliação De Risco">
+  <data key="d7">1.0</data>
+  <data key="d8">The ofendida is responsible for filling out the risk assessment questionnaire, potentially with police assistance.</data>
+  <data key="d9">Assessment,Completion</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ofendida" target="Instituto Médico Legal">
+  <data key="d7">1.0</data>
+  <data key="d8">The ofendida is taken to the Instituto Médico Legal for a forensic examination in cases of physical violence.</data>
+  <data key="d9">Evidence collection,Examination</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ofendida" target="Policial Responsável Pelo Acolhimento">
+  <data key="d7">1.0</data>
+  <data key="d8">The officer in charge of reception assists the victim in filling out the risk questionnaire and provides information about the Casa Abrigo.</data>
+  <data key="d9">Assistance,Guidance</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dependentes Menores" target="Conselho Tutelar">
+  <data key="d7">1.0</data>
+  <data key="d8">The Conselho Tutelar is notified and becomes responsible for male children over twelve who cannot enter the Casa Abrigo.</data>
+  <data key="d9">Guardianship,Responsibility</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dependentes Menores" target="Equipe De Atendimento Multidisciplinar">
+  <data key="d7">1.0</data>
+  <data key="d8">The multidisciplinary team must be heard regarding the restriction or suspension of visits to minor dependents.</data>
+  <data key="d9">Consultation,Visitation rights</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Polícia Civil" target="Questionário De Avaliação De Risco">
+  <data key="d7">1.0</data>
+  <data key="d8">The Polícia Civil provides the questionnaire on its intranet and ensures it is attached to police reports.</data>
+  <data key="d9">Management,Provision</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Questionário De Avaliação De Risco" target="Lei Maria Da Penha">
+  <data key="d7">1.0</data>
+  <data key="d8">The questionnaire is mandatory for all police reports registered under the nature of the Maria da Penha Law.</data>
+  <data key="d9">Mandatory requirement</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Questionário De Avaliação De Risco" target="Núcleo De Audiência De Custódia (NAC/TJDFT)">
+  <data key="d7">1.0</data>
+  <data key="d8">The risk assessment questionnaire must be included in communications sent to the NAC/TJDFT.</data>
+  <data key="d9">Information flow</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Requerimento Por Medidas Protetivas De Urgência" target="Poder Judiciário">
+  <data key="d7">1.0</data>
+  <data key="d8">The request for protective measures is forwarded to the Poder Judiciário via the PROCED.NET system.</data>
+  <data key="d9">Submission</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Conselho Tutelar" target="Albergues">
+  <data key="d7">1.0</data>
+  <data key="d8">The guardianship council is responsible for the placement of male children in specific hostels when family placement is impossible.</data>
+  <data key="d9">Oversight,Placement</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-004</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Instituto Médico Legal" target="Menores de 14 Anos">
+  <data key="d7">1.0</data>
+  <data key="d8">Victims under 14 are sent to the IML to check for hymen rupture, even in cases from a distant date.</data>
+  <data key="d9">Encaminhamento,Verificação de Hímen</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Exame De Corpo De Delito" target="Laudo Pericial">
+  <data key="d7">1.0</data>
+  <data key="d8">O exame realizado no IML resulta na emissão de um laudo pericial oficial.</data>
+  <data key="d9">Documentação,Resultado</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Histórico" target="Termo De Declarações">
+  <data key="d7">1.0</data>
+  <data key="d8">O histórico da ocorrência e o termo de declarações devem ser produzidos no mesmo momento e conter as mesmas informações.</data>
+  <data key="d9">Consistência,Produção</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Instituto de Criminalística" target="Roupas da Vítima">
+  <data key="d7">1.0</data>
+  <data key="d8">As roupas da vítima são enviadas ao Instituto de Criminalística para constatação de material biológico.</data>
+  <data key="d9">Encaminhamento,Perícia</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sistemas PROCED e SIIC" target="Requerimento de Medidas Protetivas de Urgência">
+  <data key="d7">1.0</data>
+  <data key="d8">Search results from these systems must be attached to the Urgent Protective Measures Request.</data>
+  <data key="d9">Anexo,Registro</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-007</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Polícia Civil do Distrito Federal" target="Governo do Distrito Federal">
+  <data key="d7">1.0</data>
+  <data key="d8">The Civil Police is an institution belonging to the Government of the Federal District.</data>
+  <data key="d9">part of</data>
+  <data key="d10">doc-e3e457a1e257bc46748013ef89b39a36-chunk-005</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1784595663</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

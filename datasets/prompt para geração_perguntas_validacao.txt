@@ -1,0 +1,11 @@
+Preciso preparar as perguntas para a validação das técnicas.
+O arquivo validacao_100_perguntas_respostas.md tem 100 perguntas geradas por um colega.
+O arquivo pop_acolhimento_vitimas_violencia_domestica_limpo.pdf tem o pop tratado e limpo (para facilitar o processo de embedding).
+Preciso que as perguntas sejam reduzidas a 30, mantendo a proporção com o tamanho dos Anexos I, II e III.
+Preciso do resultado em um arquivo CSV com 3 colunas: número da pergunta (sequencial), pergunta, gabarito.
+Considere que vou usar o ollama com o modelo llama3.1:8b, então a resposta do gabarito deve ser uma resposta próxima ao que esse modelo geraria.
+A intenção é testar a eficiência das técnicas de recuperação da informação, e não o modelo de linguagem.
+Depois volto com o resultado para você classificar a qualidade da resposta dada.
+Nesse caso, uma resposta ruim indicaria que a técnica de embedding, recuperação e montagem do prompt foi ruim, e não que o modelo de LLM tenha sido inadequado.
+
+

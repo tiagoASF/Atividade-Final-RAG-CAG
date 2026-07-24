@@ -1,0 +1,670 @@
+{
+  "doc-e3e457a1e257bc46748013ef89b39a36": {
+    "relation_pairs": [
+      [
+        "Profissionais de Saúde",
+        "Vítima"
+      ],
+      [
+        "Autoridade Policial",
+        "Testemunhas"
+      ],
+      [
+        "Local dos Fatos",
+        "Vítima"
+      ],
+      [
+        "Norma De Serviço Conjunta Nº 001/2017",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Circular Nº 06/2018",
+        "Corregedoria-Geral De Polícia"
+      ],
+      [
+        "Delegacia de Polícia",
+        "Poder Judiciário"
+      ],
+      [
+        "Instituto Médico Legal",
+        "Vítima"
+      ],
+      [
+        "Exame De Corpo De Delito",
+        "Laudo Pericial"
+      ],
+      [
+        "Ocorrência Policial",
+        "Sistema Siic"
+      ],
+      [
+        "Poder Judiciário",
+        "Requerimento Por Medidas Protetivas De Urgência"
+      ],
+      [
+        "Distrito Federal",
+        "Lei nº 12.845/2013"
+      ],
+      [
+        "Código De Processo Penal",
+        "Ocorrência Policial"
+      ],
+      [
+        "Hospital",
+        "Vítima"
+      ],
+      [
+        "Bolsa de Crise",
+        "Vítima"
+      ],
+      [
+        "Núcleo De Audiência De Custódia (NAC/TJDFT)",
+        "Questionário De Avaliação De Risco"
+      ],
+      [
+        "Delegacia de Polícia",
+        "Testemunhas"
+      ],
+      [
+        "Termo De Consentimento",
+        "Vítima"
+      ],
+      [
+        "Testemunha",
+        "Vítima"
+      ],
+      [
+        "Procedimento Operacional Padrão",
+        "Questionário De Avalição De Risco"
+      ],
+      [
+        "Casa Abrigo",
+        "Vítima"
+      ],
+      [
+        "Dependentes Menores",
+        "Equipe De Atendimento Multidisciplinar"
+      ],
+      [
+        "Feminicídio",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Rede de Saúde",
+        "Vítima"
+      ],
+      [
+        "Delegacias De Polícia",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Health Network",
+        "Victim"
+      ],
+      [
+        "PAV",
+        "Vítima"
+      ],
+      [
+        "Mulheres Vítimas De Violência Doméstica E Familiar",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Delegacia de Polícia",
+        "Ministério Público"
+      ],
+      [
+        "Ocorrência Policial",
+        "Pessoas Envolvidas"
+      ],
+      [
+        "PAV",
+        "Secretaria de Estado de Saúde"
+      ],
+      [
+        "Circular Nº 06/2018",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Requerimento de Medidas Protetivas de Urgência",
+        "Sistemas PROCED e SIIC"
+      ],
+      [
+        "Agressor",
+        "Medidas Protetivas De Urgência"
+      ],
+      [
+        "Autoridade Policial",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Conselho Tutelar",
+        "Dependentes Menores"
+      ],
+      [
+        "Ocorrência Policial",
+        "Viatura"
+      ],
+      [
+        "Laudos",
+        "Vítima"
+      ],
+      [
+        "Police Report",
+        "Vehicles, Objects and Modus Operandi Field"
+      ],
+      [
+        "Medidas Protetivas De Urgência",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Exame De Corpo De Delito",
+        "Vítima"
+      ],
+      [
+        "Código Penal",
+        "Lei nº 11.340/2006"
+      ],
+      [
+        "Ofendida",
+        "Policial Responsável Pelo Acolhimento"
+      ],
+      [
+        "Author",
+        "Victim"
+      ],
+      [
+        "Departamento de Polícia Técnica",
+        "Vítima"
+      ],
+      [
+        "Police Report",
+        "Victim"
+      ],
+      [
+        "Autoridade Policial",
+        "Lei 12.845/2013"
+      ],
+      [
+        "Vítima",
+        "WhatsApp"
+      ],
+      [
+        "Corregedoria-Geral De Polícia",
+        "Termo De Requerimento De Medidas Protetivas"
+      ],
+      [
+        "Delegacia De Polícia",
+        "Ocorrência Policial"
+      ],
+      [
+        "Condições Locais - Criminal",
+        "Ocorrência Policial"
+      ],
+      [
+        "Sistema Millenium",
+        "Vítima"
+      ],
+      [
+        "Aparelho Celular",
+        "Vítima"
+      ],
+      [
+        "Magistrado",
+        "Medidas Protetivas De Urgência"
+      ],
+      [
+        "Ocorrência Policial",
+        "Sistemas PROCED e SIIC"
+      ],
+      [
+        "Polícia Civil",
+        "Questionário De Avaliação De Risco"
+      ],
+      [
+        "Agressor",
+        "Vítima"
+      ],
+      [
+        "Delegacia De Polícia",
+        "Delegacia Especial De Atendimento À Mulher"
+      ],
+      [
+        "Departamento de Polícia Técnica",
+        "Lei 13.721/2018"
+      ],
+      [
+        "Mulheres Vítimas De Violência Doméstica E Familiar",
+        "Policial Feminina"
+      ],
+      [
+        "Ofendida",
+        "Questionário De Avaliação De Risco"
+      ],
+      [
+        "Instituto De Criminalística",
+        "Ocorrência Policial"
+      ],
+      [
+        "Filho Menor",
+        "Vítima"
+      ],
+      [
+        "Lei 11.340/2006",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "IPDNA",
+        "Vítima"
+      ],
+      [
+        "Agressor",
+        "Autoridade Judiciária"
+      ],
+      [
+        "Exame Pericial",
+        "Vítima"
+      ],
+      [
+        "Judiciário",
+        "Ocorrência Policial"
+      ],
+      [
+        "Ocorrência Policial",
+        "Vítima"
+      ],
+      [
+        "Physical Characteristics Field",
+        "Police Report"
+      ],
+      [
+        "Casa Abrigo",
+        "Ofendida"
+      ],
+      [
+        "Nome Social",
+        "Vítima"
+      ],
+      [
+        "Departamento de Polícia Técnica",
+        "Lei 11.340/2006"
+      ],
+      [
+        "Mídia",
+        "Vítima"
+      ],
+      [
+        "Corregedoria-Geral de Polícia",
+        "PCDF"
+      ],
+      [
+        "Involved Persons Field",
+        "Police Report"
+      ],
+      [
+        "Queixa-Crime",
+        "Vítima"
+      ],
+      [
+        "Ocorrência Policial",
+        "Testemunha"
+      ],
+      [
+        "Instituto de Medicina Legal",
+        "Vítima"
+      ],
+      [
+        "Casa Abrigo",
+        "Dependentes Menores"
+      ],
+      [
+        "Termo De Requerimento De Medidas Protetivas",
+        "Vítima"
+      ],
+      [
+        "Instituto de Criminalística",
+        "Roupas da Vítima"
+      ],
+      [
+        "Lei 13.431/2017",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Corregedoria-Geral de Polícia",
+        "Norma de Serviço 04/2018"
+      ],
+      [
+        "Ocorrência Policial",
+        "Sistema Proced"
+      ],
+      [
+        "Autoridade Policial",
+        "Sistema De Monitoramento"
+      ],
+      [
+        "Código de Processo Penal",
+        "Lei nº 13.721/2018"
+      ],
+      [
+        "Author",
+        "Police Report"
+      ],
+      [
+        "Conselho Federal de Medicina",
+        "Médicos"
+      ],
+      [
+        "Memorando de Encaminhamento",
+        "Ocorrência Policial"
+      ],
+      [
+        "Governo do Distrito Federal",
+        "Polícia Civil do Distrito Federal"
+      ],
+      [
+        "Material Biológico",
+        "Vítima"
+      ],
+      [
+        "Corregedoria-Geral De Polícia",
+        "Polícia Civil Do Distrito Federal"
+      ],
+      [
+        "Author",
+        "Weapon"
+      ],
+      [
+        "Autoridade Policial",
+        "Veículo"
+      ],
+      [
+        "Casa Abrigo",
+        "Delegacia Especial De Atendimento À Mulher"
+      ],
+      [
+        "Termo de Consentimento",
+        "Vítima"
+      ],
+      [
+        "Victim",
+        "Witness"
+      ],
+      [
+        "Cártulas De Cheques",
+        "Vítima"
+      ],
+      [
+        "Albergues Específicos",
+        "Delegacia de Polícia"
+      ],
+      [
+        "Lei Maria Da Penha",
+        "Questionário De Avaliação De Risco"
+      ],
+      [
+        "Lei Maria Da Penha",
+        "Ocorrência Policial"
+      ],
+      [
+        "Delegacia De Polícia",
+        "Vítima"
+      ],
+      [
+        "Autoridade Policial",
+        "Ocorrência Policial"
+      ],
+      [
+        "Roupas da Vítima",
+        "Vítima"
+      ],
+      [
+        "Instituto Médico Legal",
+        "Ofendida"
+      ],
+      [
+        "Agressor",
+        "Ofendida"
+      ],
+      [
+        "Corregedoria-Geral de Polícia",
+        "Norma de Serviço nº 04/2017"
+      ],
+      [
+        "Casa Abrigo",
+        "Delegacia Especial de Atendimento à Mulher"
+      ],
+      [
+        "Autor",
+        "Vítima"
+      ],
+      [
+        "Autoridade Policial",
+        "Delegacia de Polícia"
+      ],
+      [
+        "Policial",
+        "Vítima"
+      ],
+      [
+        "Delegacia de Polícia",
+        "Instituto Médico Legal"
+      ],
+      [
+        "Police Authority",
+        "Victim"
+      ],
+      [
+        "Medida Protetiva",
+        "Vítima"
+      ],
+      [
+        "Arma de Fogo",
+        "Vítima"
+      ],
+      [
+        "Medidas Protetivas De Urgência",
+        "Vítima"
+      ],
+      [
+        "Autoridade Policial",
+        "Veículo da Vítima"
+      ],
+      [
+        "Lei 10.048/2000",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Police Officer",
+        "Victim"
+      ],
+      [
+        "Norma De Serviço Nº 09/2012",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Exame de Corpo de Delito",
+        "Vítima"
+      ],
+      [
+        "Veículo",
+        "Vítima"
+      ],
+      [
+        "Arma De Fogo",
+        "Autor"
+      ],
+      [
+        "Dados Básicos",
+        "Ocorrência Policial"
+      ],
+      [
+        "Norma De Serviço Nº 04/2017",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Delegacia",
+        "Testemunha"
+      ],
+      [
+        "Filhos",
+        "Vítima"
+      ],
+      [
+        "Auto De Apresentação E Apreensão",
+        "Instituto De Criminalística"
+      ],
+      [
+        "Governo Do Distrito Federal",
+        "Polícia Civil Do Distrito Federal"
+      ],
+      [
+        "Corregedoria-Geral de Polícia",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Delegacia Especial de Atendimento à Mulher",
+        "Delegacia de Polícia"
+      ],
+      [
+        "Autor",
+        "Autoridade Policial"
+      ],
+      [
+        "Conselho Tutelar",
+        "Delegacia de Polícia"
+      ],
+      [
+        "Instituto de Identificação",
+        "Vítima"
+      ],
+      [
+        "Instituto Médico Legal",
+        "Menores de 14 Anos"
+      ],
+      [
+        "Memorando De Encaminhamento",
+        "Ocorrência Policial"
+      ],
+      [
+        "Police Report",
+        "Rape"
+      ],
+      [
+        "Facial Composite",
+        "Victim"
+      ],
+      [
+        "Albergues",
+        "Conselho Tutelar"
+      ],
+      [
+        "Lei 11.340/2006",
+        "Vítima"
+      ],
+      [
+        "Local Conditions - Criminal Field",
+        "Police Report"
+      ],
+      [
+        "History Field",
+        "Modus Operandi"
+      ],
+      [
+        "Sistema Millenium",
+        "Termo De Requerimento De Medidas Protetivas"
+      ],
+      [
+        "Veículo da Vítima",
+        "Vítima"
+      ],
+      [
+        "Corregedoria-Geral De Polícia",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Ocorrência Policial",
+        "WhatsApp"
+      ],
+      [
+        "Agressor",
+        "Lei N. 10.826/2003"
+      ],
+      [
+        "Termo De Declarações",
+        "Vítima"
+      ],
+      [
+        "Autor",
+        "Núcleo Familiar"
+      ],
+      [
+        "Retrato Falado",
+        "Vítima"
+      ],
+      [
+        "Bolsa de Crise",
+        "Policial"
+      ],
+      [
+        "Delegacia de Polícia",
+        "Instrução Normativa 95/2003"
+      ],
+      [
+        "Ocorrência Policial",
+        "Veículos Envolvidos E Objetos Envolvidos"
+      ],
+      [
+        "Arma De Fogo",
+        "Autoridade Policial"
+      ],
+      [
+        "Instrução Normativa Nº 95/2003",
+        "Procedimento Operacional Padrão"
+      ],
+      [
+        "Histórico",
+        "Termo De Declarações"
+      ],
+      [
+        "Autoridade Policial",
+        "Vítima"
+      ],
+      [
+        "Basic Data Field",
+        "Police Report"
+      ],
+      [
+        "Autoridade Policial",
+        "Poder Judiciário"
+      ],
+      [
+        "Prontuário Médico",
+        "Vítima"
+      ],
+      [
+        "Autor",
+        "IPDNA"
+      ],
+      [
+        "Instrução Normativa nº 17 de 2017",
+        "Vítima"
+      ],
+      [
+        "Testemunhas",
+        "Vítima"
+      ],
+      [
+        "Local Conditions - Criminal Field",
+        "Police Vehicle"
+      ],
+      [
+        "Agressor",
+        "Filho Menor"
+      ]
+    ],
+    "count": 165,
+    "create_time": 1784595663,
+    "update_time": 1784595663,
+    "_id": "doc-e3e457a1e257bc46748013ef89b39a36"
+  }
+}

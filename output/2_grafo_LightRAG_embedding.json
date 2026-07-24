@@ -1,0 +1,28 @@
+{
+    "ok": true,
+    "relatorio": {
+        "arquivo": "pop_acolhimento_vitimas_violencia_domestica_limpo.pdf",
+        "complexidade": "texto_simples",
+        "tecnica_extracao": "texto",
+        "motivo_extracao": "o LLM escolheu 'extrair_texto' a partir dos sinais do documento",
+        "estrutura": {
+            "extensao": ".pdf",
+            "n_paginas": 11,
+            "n_chars_texto": 43558,
+            "tem_imagens": false,
+            "eh_planilha": false,
+            "eh_imagem": false,
+            "provavel_escaneado": false
+        },
+        "destino": "grafo",
+        "motivo_destino": "forcado pelo usuario (override=grafo)",
+        "chunking": "grafo (LightRAG gerencia)",
+        "motivo_chunking": "destino=grafo",
+        "n_chunks": 11,
+        "n_caracteres": 43506,
+        "tempo_extracao": 32.6,
+        "tempo_indexacao": 62.49
+    },
+    "erro": null,
+    "tempo_total": 95.09
+}

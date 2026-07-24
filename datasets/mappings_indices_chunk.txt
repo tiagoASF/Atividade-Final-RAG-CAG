@@ -1,0 +1,245 @@
+{
+  "fase1_chunking_fixo": {
+    "mappings": {
+      "dynamic_templates": [
+        {
+          "strings": {
+            "match_mapping_type": "string",
+            "mapping": {
+              "type": "keyword"
+            }
+          }
+        }
+      ],
+      "properties": {
+        "arquivo": {
+          "type": "keyword"
+        },
+        "content": {
+          "type": "text"
+        },
+        "embedding": {
+          "type": "knn_vector",
+          "dimension": 1024
+        },
+        "id": {
+          "type": "keyword"
+        },
+        "page_number": {
+          "type": "long"
+        },
+        "source_id": {
+          "type": "keyword"
+        },
+        "split_id": {
+          "type": "long"
+        },
+        "split_idx_start": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}
+
+{
+  "fase1_chunking_hierarquico": {
+    "mappings": {
+      "dynamic_templates": [
+        {
+          "strings": {
+            "match_mapping_type": "string",
+            "mapping": {
+              "type": "keyword"
+            }
+          }
+        }
+      ],
+      "properties": {
+        "__block_size": {
+          "type": "long"
+        },
+        "__level": {
+          "type": "long"
+        },
+        "__parent_id": {
+          "type": "keyword"
+        },
+        "arquivo": {
+          "type": "keyword"
+        },
+        "content": {
+          "type": "text"
+        },
+        "embedding": {
+          "type": "knn_vector",
+          "dimension": 1024
+        },
+        "id": {
+          "type": "keyword"
+        },
+        "page_number": {
+          "type": "long"
+        },
+        "source_id": {
+          "type": "keyword"
+        },
+        "split_id": {
+          "type": "long"
+        },
+        "split_idx_start": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}
+
+{
+  "fase1_chunking_recursivo": {
+    "mappings": {
+      "dynamic_templates": [
+        {
+          "strings": {
+            "match_mapping_type": "string",
+            "mapping": {
+              "type": "keyword"
+            }
+          }
+        }
+      ],
+      "properties": {
+        "_split_overlap": {
+          "properties": {
+            "doc_id": {
+              "type": "keyword"
+            },
+            "range": {
+              "type": "long"
+            }
+          }
+        },
+        "arquivo": {
+          "type": "keyword"
+        },
+        "content": {
+          "type": "text"
+        },
+        "embedding": {
+          "type": "knn_vector",
+          "dimension": 1024
+        },
+        "id": {
+          "type": "keyword"
+        },
+        "page_number": {
+          "type": "long"
+        },
+        "parent_id": {
+          "type": "keyword"
+        },
+        "split_id": {
+          "type": "long"
+        },
+        "split_idx_start": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}
+
+{
+  "fase1_chunking_semantico": {
+    "mappings": {
+      "dynamic_templates": [
+        {
+          "strings": {
+            "match_mapping_type": "string",
+            "mapping": {
+              "type": "keyword"
+            }
+          }
+        }
+      ],
+      "properties": {
+        "arquivo": {
+          "type": "keyword"
+        },
+        "content": {
+          "type": "text"
+        },
+        "embedding": {
+          "type": "knn_vector",
+          "dimension": 1024
+        },
+        "id": {
+          "type": "keyword"
+        },
+        "page_number": {
+          "type": "long"
+        },
+        "source_id": {
+          "type": "keyword"
+        },
+        "split_id": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}
+
+{
+  "fase1_chunking_sentenca_janela": {
+    "mappings": {
+      "dynamic_templates": [
+        {
+          "strings": {
+            "match_mapping_type": "string",
+            "mapping": {
+              "type": "keyword"
+            }
+          }
+        }
+      ],
+      "properties": {
+        "_split_overlap": {
+          "properties": {
+            "doc_id": {
+              "type": "keyword"
+            },
+            "range": {
+              "type": "long"
+            }
+          }
+        },
+        "arquivo": {
+          "type": "keyword"
+        },
+        "content": {
+          "type": "text"
+        },
+        "embedding": {
+          "type": "knn_vector",
+          "dimension": 1024
+        },
+        "id": {
+          "type": "keyword"
+        },
+        "page_number": {
+          "type": "long"
+        },
+        "source_id": {
+          "type": "keyword"
+        },
+        "split_id": {
+          "type": "long"
+        },
+        "split_idx_start": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}
