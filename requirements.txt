@@ -55,7 +55,7 @@ nltk
 # --- Ragas e LLM Modernos ---
 sentence-transformers       # Motor de embedding local
 
-ragas==0.2.12               # Versão estável sem os bugs de pathing das v0.1
+ragas==0.4.3               # Versão estável sem os bugs de pathing das v0.1
 
 langchain-core==0.2.33
 langchain-openai==0.1.22
