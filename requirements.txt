@@ -40,7 +40,7 @@ langfuse-haystack==5.2.0         # LangfuseConnector (auto-trace do pipeline de 
 
 # --- Interface ---
 gradio>=4.44                  # interface web da API (interface.py)
-requests==2.32.3               # interface -> API
+requests==2.33.0               # interface -> API
 
 # --- Utilidades ---
 python-dotenv==1.0.1
